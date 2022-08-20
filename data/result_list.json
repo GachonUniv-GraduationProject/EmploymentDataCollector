@@ -1,0 +1,8896 @@
+{
+  "jobPosts": [
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "검색엔진"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "ElasticStack"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)당근마켓",
+      "careerMin": 0,
+      "id": 43739265,
+      "position": "검색 모델 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Windows"
+        },
+        {
+          "keyword": "Linux"
+        }
+      ],
+      "field": "기타제조업,반도체·광학·LCD",
+      "companyName": "에스케이하이닉스(주)",
+      "careerMin": 5,
+      "id": 43739194,
+      "position": "[경력] IT Infra 기획/구축/운영 인력"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "인터넷금융"
+        },
+        {
+          "keyword": "데이터시각화"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "프론트엔드"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)뱅크샐러드",
+      "careerMin": 0,
+      "id": 43738539,
+      "position": "시니어 웹 프론트엔드 엔지니어(Senior Web Front-End Engineer)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "종합포털"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "Hadoop"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Spark"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,포털·인터넷·컨텐츠",
+      "companyName": "라인플러스(주)",
+      "careerMin": 3,
+      "id": 43738364,
+      "position": "Fintech ML/Data Analyst"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "인터넷금융"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "기술기획"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "조직관리"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)뱅크샐러드",
+      "careerMin": 3,
+      "id": 43738320,
+      "position": "TPM (Tech Program Manager)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "인터넷금융"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "DevOps"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Kubernetes"
+        },
+        {
+          "keyword": "Python"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)뱅크샐러드",
+      "careerMin": 1,
+      "id": 43738072,
+      "position": "데브옵스 엔지니어 (DevOps Engineer)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Unreal"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 3,
+      "id": 43738000,
+      "position": "[ELYON] 클라이언트 프로그래밍 (3년 이상)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Unreal"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "데이터분석"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 3,
+      "id": 43737925,
+      "position": "[BATTLEGROUNDS] Anti-Cheat 엔지니어 (3년 이상)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "인터넷금융"
+        },
+        {
+          "keyword": "스크립트"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "Figma"
+        },
+        {
+          "keyword": "Zeplin"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)뱅크샐러드",
+      "careerMin": 0,
+      "id": 43737849,
+      "position": "안드로이드 엔지니어(Android Engineer)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "PowerPoint"
+        },
+        {
+          "keyword": "마케팅기획"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "앱디자인"
+        },
+        {
+          "keyword": "웹디자인"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 2,
+      "id": 43737844,
+      "position": "[PUBG Esports] Content & Marketing Manager (2년 이상)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "GM(게임운영)"
+        },
+        {
+          "keyword": "검색엔진"
+        },
+        {
+          "keyword": "Unity"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 5,
+      "id": 43737843,
+      "position": "게임 클라이언트 엔지니어 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 3,
+      "id": 43737794,
+      "position": "업무용 시스템 기획"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "NoSQL"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 3,
+      "id": 43737693,
+      "position": "성능 엔지니어 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "블록체인"
+        },
+        {
+          "keyword": "메타버스"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 4,
+      "id": 43737642,
+      "position": "Software QA 담당자 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "ReactJS"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "Vue.js"
+        },
+        {
+          "keyword": "Webpack"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "웍스모바일(주)",
+      "careerMin": 3,
+      "id": 43737632,
+      "position": "Front-End 개발자 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "영상처리"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "알고리즘개발"
+        },
+        {
+          "keyword": "공정설계"
+        },
+        {
+          "keyword": "기술설계"
+        },
+        {
+          "keyword": "회로설계"
+        },
+        {
+          "keyword": "반도체설계"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "디지털디자인"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)엘엑스세미콘",
+      "careerMin": 0,
+      "id": 43737586,
+      "position": "R&D 채용연계형 석사 신입 인턴십 8월 수시채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 3,
+      "id": 43737582,
+      "position": "플랫폼 백엔드 개발자 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "DW"
+        },
+        {
+          "keyword": "ETL"
+        },
+        {
+          "keyword": "OLAP"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "넷마블(주)",
+      "careerMin": 3,
+      "id": 43737528,
+      "position": "DW/BI 엔지니어 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "스크립트"
+        },
+        {
+          "keyword": "임베디드"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "VisualC·C++"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "PowerPoint"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "R&D기획"
+        },
+        {
+          "keyword": "알고리즘개발"
+        },
+        {
+          "keyword": "디지털디자인"
+        },
+        {
+          "keyword": "경영기획"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "시장조사"
+        },
+        {
+          "keyword": "영업"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)엘엑스세미콘",
+      "careerMin": 0,
+      "id": 43737521,
+      "position": "채용연계형 학사 신입 인턴십 8월 수시채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "유기합성"
+        },
+        {
+          "keyword": "폴리머"
+        },
+        {
+          "keyword": "화공"
+        },
+        {
+          "keyword": "화학"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "정보통신"
+        },
+        {
+          "keyword": "트러블슈팅"
+        },
+        {
+          "keyword": "H/W"
+        },
+        {
+          "keyword": "S/W"
+        },
+        {
+          "keyword": "총무"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "전산총무"
+        },
+        {
+          "keyword": "정보처리"
+        },
+        {
+          "keyword": "전동지게차"
+        },
+        {
+          "keyword": "지게차"
+        },
+        {
+          "keyword": "대기측정분석사"
+        },
+        {
+          "keyword": "연구원"
+        },
+        {
+          "keyword": "환경측정분석사"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "R&D기획"
+        },
+        {
+          "keyword": "기술연구"
+        },
+        {
+          "keyword": "수질분석"
+        },
+        {
+          "keyword": "시료분석"
+        },
+        {
+          "keyword": "신소재"
+        },
+        {
+          "keyword": "의약외품연구"
+        },
+        {
+          "keyword": "이화학시험"
+        },
+        {
+          "keyword": "정책연구"
+        },
+        {
+          "keyword": "학술연구"
+        },
+        {
+          "keyword": "환경오염"
+        },
+        {
+          "keyword": "기계조작원"
+        },
+        {
+          "keyword": "단순생산직"
+        },
+        {
+          "keyword": "생산관리"
+        },
+        {
+          "keyword": "설비OP"
+        },
+        {
+          "keyword": "품질검사원"
+        },
+        {
+          "keyword": "QA"
+        },
+        {
+          "keyword": "QC"
+        },
+        {
+          "keyword": "공정엔지니어"
+        },
+        {
+          "keyword": "설계엔지니어"
+        },
+        {
+          "keyword": "PSM"
+        },
+        {
+          "keyword": "공정설계"
+        },
+        {
+          "keyword": "구조해석/설계"
+        },
+        {
+          "keyword": "기계설계"
+        },
+        {
+          "keyword": "기구설계"
+        },
+        {
+          "keyword": "생산설계"
+        },
+        {
+          "keyword": "시스템설계"
+        },
+        {
+          "keyword": "자동화설계"
+        },
+        {
+          "keyword": "장비설계"
+        },
+        {
+          "keyword": "플랜트설계"
+        },
+        {
+          "keyword": "제조가공"
+        },
+        {
+          "keyword": "석유화학"
+        },
+        {
+          "keyword": "자동화라인"
+        },
+        {
+          "keyword": "메카트로닉스"
+        },
+        {
+          "keyword": "생산자동화"
+        },
+        {
+          "keyword": "설계보조"
+        },
+        {
+          "keyword": "에너지관리"
+        },
+        {
+          "keyword": "열해석"
+        },
+        {
+          "keyword": "유동해석"
+        },
+        {
+          "keyword": "품질분석"
+        },
+        {
+          "keyword": "FA(공장자동화)"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "구매관리"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "자재관리"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "창고관리"
+        },
+        {
+          "keyword": "구매기획"
+        },
+        {
+          "keyword": "개발구매"
+        },
+        {
+          "keyword": "거래처관리"
+        },
+        {
+          "keyword": "검품/검수"
+        },
+        {
+          "keyword": "견적관리"
+        },
+        {
+          "keyword": "구매대행/소싱"
+        },
+        {
+          "keyword": "수급관리"
+        },
+        {
+          "keyword": "수불관리"
+        },
+        {
+          "keyword": "양산구매"
+        },
+        {
+          "keyword": "외자구매"
+        },
+        {
+          "keyword": "입고/입하"
+        },
+        {
+          "keyword": "자재구매"
+        },
+        {
+          "keyword": "전략구매"
+        },
+        {
+          "keyword": "조달구매"
+        },
+        {
+          "keyword": "출고/출하"
+        },
+        {
+          "keyword": "건축가"
+        },
+        {
+          "keyword": "건축기사"
+        },
+        {
+          "keyword": "공무"
+        },
+        {
+          "keyword": "공조냉동기사"
+        },
+        {
+          "keyword": "기계기사"
+        },
+        {
+          "keyword": "대기환경기사"
+        },
+        {
+          "keyword": "수질환경기사"
+        },
+        {
+          "keyword": "시공관리자"
+        },
+        {
+          "keyword": "시공기사"
+        },
+        {
+          "keyword": "현장관리자"
+        },
+        {
+          "keyword": "현장기사"
+        },
+        {
+          "keyword": "환경관리자"
+        },
+        {
+          "keyword": "건축구조설계"
+        },
+        {
+          "keyword": "환경설계"
+        },
+        {
+          "keyword": "소방설계"
+        },
+        {
+          "keyword": "건설관리"
+        },
+        {
+          "keyword": "공조설비"
+        },
+        {
+          "keyword": "대기측정분석"
+        },
+        {
+          "keyword": "산업설비"
+        },
+        {
+          "keyword": "산업플랜트"
+        },
+        {
+          "keyword": "설비보수"
+        },
+        {
+          "keyword": "열교환기"
+        },
+        {
+          "keyword": "작업환경측정"
+        },
+        {
+          "keyword": "전기설비"
+        },
+        {
+          "keyword": "플랜트건설"
+        },
+        {
+          "keyword": "플랜트설비"
+        },
+        {
+          "keyword": "플랜트전기"
+        },
+        {
+          "keyword": "플랜트토목"
+        },
+        {
+          "keyword": "화학플랜트"
+        },
+        {
+          "keyword": "환경분석"
+        },
+        {
+          "keyword": "환경영향평가"
+        },
+        {
+          "keyword": "환경플랜트"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "생산"
+        },
+        {
+          "keyword": "생산기술"
+        },
+        {
+          "keyword": "품질보증"
+        },
+        {
+          "keyword": "건축설계"
+        },
+        {
+          "keyword": "공정관리"
+        },
+        {
+          "keyword": "제조"
+        },
+        {
+          "keyword": "구매"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "OA"
+        },
+        {
+          "keyword": "운전"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "디스플레이"
+        }
+      ],
+      "field": "석유·화학·에너지",
+      "companyName": "(주)천보",
+      "careerMin": 0,
+      "id": 43735287,
+      "position": "(주)천보 2022년 하반기 각 부문 신입/경력 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "보안·경비업체"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "보안컨설팅"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "Angular"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "PHP"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "Unity"
+        },
+        {
+          "keyword": "Unreal"
+        },
+        {
+          "keyword": "사업기획"
+        },
+        {
+          "keyword": "서비스기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "시장조사"
+        },
+        {
+          "keyword": "신사업기획"
+        },
+        {
+          "keyword": "신사업발굴"
+        },
+        {
+          "keyword": "타당성검토"
+        },
+        {
+          "keyword": "트렌드분석"
+        },
+        {
+          "keyword": "기획"
+        },
+        {
+          "keyword": "헬스케어"
+        },
+        {
+          "keyword": "메타버스"
+        }
+      ],
+      "field": "시설관리·경비·용역",
+      "companyName": "에스케이쉴더스(주)",
+      "careerMin": 0,
+      "id": 43734622,
+      "position": "[SK쉴더스] Lifecare기획팀 경력직 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "보안·경비업체"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "반응형웹"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "인터페이스"
+        },
+        {
+          "keyword": "ABAP"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "MSSQL"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "유지보수"
+        }
+      ],
+      "field": "시설관리·경비·용역",
+      "companyName": "에스케이쉴더스(주)",
+      "careerMin": 0,
+      "id": 43734536,
+      "position": "[SK쉴더스] SAP 및 WEB&App 개발/유지보수 경력직 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기계"
+        },
+        {
+          "keyword": "자동차"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "보안컨설팅"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "CISO"
+        },
+        {
+          "keyword": "CPO"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "SI개발"
+        },
+        {
+          "keyword": "ICT컨설팅"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "데이터라벨링"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "데이터시각화"
+        },
+        {
+          "keyword": "딥러닝"
+        },
+        {
+          "keyword": "머신러닝"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "모의해킹"
+        },
+        {
+          "keyword": "미들웨어"
+        },
+        {
+          "keyword": "방화벽"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "임베디드"
+        },
+        {
+          "keyword": "자율주행"
+        },
+        {
+          "keyword": "정보통신"
+        },
+        {
+          "keyword": "챗봇"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "텍스트마이닝"
+        },
+        {
+          "keyword": "트러블슈팅"
+        },
+        {
+          "keyword": "펌웨어"
+        },
+        {
+          "keyword": "핀테크"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "FPGA"
+        },
+        {
+          "keyword": "H/W"
+        },
+        {
+          "keyword": "IDC"
+        },
+        {
+          "keyword": "MCU"
+        },
+        {
+          "keyword": "NLP(자연어처리)"
+        },
+        {
+          "keyword": "NLU(자연어이해)"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "SDK"
+        },
+        {
+          "keyword": "SOA"
+        },
+        {
+          "keyword": "STT"
+        },
+        {
+          "keyword": "TTS"
+        },
+        {
+          "keyword": "VoIP"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "인터페이스"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "CentOS"
+        },
+        {
+          "keyword": "Eclipse"
+        },
+        {
+          "keyword": "ECMAScript"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Pytorch"
+        },
+        {
+          "keyword": "Swift"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "VB.NET"
+        },
+        {
+          "keyword": "Verilog"
+        },
+        {
+          "keyword": "Vert.x"
+        },
+        {
+          "keyword": "임베디드리눅스"
+        },
+        {
+          "keyword": "로봇엔지니어"
+        },
+        {
+          "keyword": "연구원"
+        },
+        {
+          "keyword": "임상PM"
+        },
+        {
+          "keyword": "환경측정분석사"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "R&D기획"
+        },
+        {
+          "keyword": "고분자"
+        },
+        {
+          "keyword": "광학설계"
+        },
+        {
+          "keyword": "기술연구"
+        },
+        {
+          "keyword": "로봇설계"
+        },
+        {
+          "keyword": "무인항공기/드론"
+        },
+        {
+          "keyword": "분자진단"
+        },
+        {
+          "keyword": "신소재"
+        },
+        {
+          "keyword": "알고리즘개발"
+        },
+        {
+          "keyword": "전자파"
+        },
+        {
+          "keyword": "정책연구"
+        },
+        {
+          "keyword": "제제연구"
+        },
+        {
+          "keyword": "제형연구"
+        },
+        {
+          "keyword": "토양환경"
+        },
+        {
+          "keyword": "환경오염"
+        },
+        {
+          "keyword": "FT-IR분석"
+        },
+        {
+          "keyword": "품질검사원"
+        },
+        {
+          "keyword": "QA"
+        },
+        {
+          "keyword": "설계엔지니어"
+        },
+        {
+          "keyword": "구조해석/설계"
+        },
+        {
+          "keyword": "기구설계"
+        },
+        {
+          "keyword": "시스템설계"
+        },
+        {
+          "keyword": "계장설계"
+        },
+        {
+          "keyword": "전장설계"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "자동화설계"
+        },
+        {
+          "keyword": "전기설계"
+        },
+        {
+          "keyword": "회로설계"
+        },
+        {
+          "keyword": "자동제어"
+        },
+        {
+          "keyword": "장비제어"
+        },
+        {
+          "keyword": "전기제어"
+        },
+        {
+          "keyword": "전자제어"
+        },
+        {
+          "keyword": "2D설계"
+        },
+        {
+          "keyword": "3D설계"
+        },
+        {
+          "keyword": "석유화학"
+        },
+        {
+          "keyword": "자동용접"
+        },
+        {
+          "keyword": "자동화라인"
+        },
+        {
+          "keyword": "MES"
+        },
+        {
+          "keyword": "계측제어"
+        },
+        {
+          "keyword": "생산자동화"
+        },
+        {
+          "keyword": "열해석"
+        },
+        {
+          "keyword": "유동해석"
+        },
+        {
+          "keyword": "품질분석"
+        },
+        {
+          "keyword": "FA(공장자동화)"
+        },
+        {
+          "keyword": "HMI"
+        },
+        {
+          "keyword": "자동선반"
+        },
+        {
+          "keyword": "PLC"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "디지털디자인"
+        },
+        {
+          "keyword": "브랜드디자인"
+        },
+        {
+          "keyword": "산업디자인"
+        },
+        {
+          "keyword": "시각디자인"
+        },
+        {
+          "keyword": "앱디자인"
+        },
+        {
+          "keyword": "영상디자인"
+        },
+        {
+          "keyword": "웹디자인"
+        },
+        {
+          "keyword": "정보디자인"
+        },
+        {
+          "keyword": "패키지디자인"
+        },
+        {
+          "keyword": "환경디자인"
+        },
+        {
+          "keyword": "AD(아트디렉터)"
+        },
+        {
+          "keyword": "2D디자인"
+        },
+        {
+          "keyword": "3D디자인"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "XD"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "품질보증"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "SQA"
+        }
+      ],
+      "field": "기계·설비·자동차",
+      "companyName": "현대모비스(주)",
+      "careerMin": 0,
+      "id": 43733241,
+      "position": "22년 SW 융합·SW 개발자 신입채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "쇼핑몰"
+        },
+        {
+          "keyword": "오픈마켓"
+        },
+        {
+          "keyword": "전자상거래"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "감사"
+        },
+        {
+          "keyword": "공인회계사"
+        },
+        {
+          "keyword": "세무사"
+        },
+        {
+          "keyword": "전산회계"
+        },
+        {
+          "keyword": "회계사"
+        },
+        {
+          "keyword": "AICPA"
+        },
+        {
+          "keyword": "IR/공시"
+        },
+        {
+          "keyword": "KICPA"
+        },
+        {
+          "keyword": "더존"
+        },
+        {
+          "keyword": "관리회계"
+        },
+        {
+          "keyword": "내부감사"
+        },
+        {
+          "keyword": "법인결산"
+        },
+        {
+          "keyword": "세무기장"
+        },
+        {
+          "keyword": "연결회계"
+        },
+        {
+          "keyword": "예산관리"
+        },
+        {
+          "keyword": "외부감사"
+        },
+        {
+          "keyword": "외환관리"
+        },
+        {
+          "keyword": "원가회계"
+        },
+        {
+          "keyword": "자금관리"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "자산운용"
+        },
+        {
+          "keyword": "자체기장"
+        },
+        {
+          "keyword": "재무기획"
+        },
+        {
+          "keyword": "재무제표"
+        },
+        {
+          "keyword": "재무회계"
+        },
+        {
+          "keyword": "회계결산"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "IFRS"
+        },
+        {
+          "keyword": "해외법인"
+        },
+        {
+          "keyword": "회계법인"
+        },
+        {
+          "keyword": "법무사"
+        },
+        {
+          "keyword": "총무"
+        },
+        {
+          "keyword": "경영지원"
+        },
+        {
+          "keyword": "통계/분석"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "재무"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "법무"
+        }
+      ],
+      "field": "쇼핑몰·오픈마켓",
+      "companyName": "쿠팡(주)",
+      "careerMin": 3,
+      "id": 43732777,
+      "position": "쿠팡 회계 경력직 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "SI·시스템통합"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "솔루션업체"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "검색엔진"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "데이터라벨링"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "데이터시각화"
+        },
+        {
+          "keyword": "딥러닝"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "반응형웹"
+        },
+        {
+          "keyword": "방화벽"
+        },
+        {
+          "keyword": "블록체인"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "스크립트"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "임베디드"
+        },
+        {
+          "keyword": "정보통신"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "펌웨어"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "IIS"
+        },
+        {
+          "keyword": "IoT"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "SOA"
+        },
+        {
+          "keyword": "VoIP"
+        },
+        {
+          "keyword": "VR(가상현실)"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "Windows"
+        },
+        {
+          "keyword": ".NET"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "Apache"
+        },
+        {
+          "keyword": "ASP"
+        },
+        {
+          "keyword": "ASP.NET"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "CSS3"
+        },
+        {
+          "keyword": "Docker"
+        },
+        {
+          "keyword": "FLEX"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "GoLang"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "jQuery"
+        },
+        {
+          "keyword": "JSP"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "Kubernetes"
+        },
+        {
+          "keyword": "Linux"
+        },
+        {
+          "keyword": "MariaDB"
+        },
+        {
+          "keyword": "MFC"
+        },
+        {
+          "keyword": "MSSQL"
+        },
+        {
+          "keyword": "MyBatis"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "NoSQL"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "PL/SQL"
+        },
+        {
+          "keyword": "PostgreSQL"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "RestAPI"
+        },
+        {
+          "keyword": "SaaS"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "SQLite"
+        },
+        {
+          "keyword": "Swift"
+        },
+        {
+          "keyword": "Tomcat"
+        },
+        {
+          "keyword": "Unity"
+        },
+        {
+          "keyword": "Unix"
+        },
+        {
+          "keyword": "VB.NET"
+        },
+        {
+          "keyword": "VisualC·C++"
+        },
+        {
+          "keyword": "Vue.js"
+        },
+        {
+          "keyword": "WAS"
+        },
+        {
+          "keyword": "WebGL"
+        },
+        {
+          "keyword": "Webpack"
+        },
+        {
+          "keyword": "WebRTC"
+        },
+        {
+          "keyword": "더존"
+        },
+        {
+          "keyword": "법률사무원"
+        },
+        {
+          "keyword": "컴플라이언스"
+        },
+        {
+          "keyword": "특허명세사"
+        },
+        {
+          "keyword": "문서작성"
+        },
+        {
+          "keyword": "사무행정"
+        },
+        {
+          "keyword": "상표관리"
+        },
+        {
+          "keyword": "서류관리"
+        },
+        {
+          "keyword": "인/허가"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "기술영업"
+        },
+        {
+          "keyword": "영업관리"
+        },
+        {
+          "keyword": "영업지원"
+        },
+        {
+          "keyword": "영업MD"
+        },
+        {
+          "keyword": "건설영업"
+        },
+        {
+          "keyword": "솔루션기술영업"
+        },
+        {
+          "keyword": "시스템영업"
+        },
+        {
+          "keyword": "영업마케팅"
+        },
+        {
+          "keyword": "영업전략"
+        },
+        {
+          "keyword": "영업판촉"
+        },
+        {
+          "keyword": "IT영업"
+        },
+        {
+          "keyword": "SI영업"
+        },
+        {
+          "keyword": "B2B"
+        },
+        {
+          "keyword": "거래처관리"
+        },
+        {
+          "keyword": "고객관리"
+        },
+        {
+          "keyword": "기업영업"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "전기설계"
+        },
+        {
+          "keyword": "2D설계"
+        },
+        {
+          "keyword": "MES"
+        },
+        {
+          "keyword": "스마트팩토리"
+        },
+        {
+          "keyword": "AutoCAD"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "프레스"
+        },
+        {
+          "keyword": "CAM"
+        },
+        {
+          "keyword": "PLC"
+        },
+        {
+          "keyword": "구매관리"
+        },
+        {
+          "keyword": "자재관리"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "창고관리"
+        },
+        {
+          "keyword": "구매기획"
+        },
+        {
+          "keyword": "검품/검수"
+        },
+        {
+          "keyword": "수/발주"
+        },
+        {
+          "keyword": "수급관리"
+        },
+        {
+          "keyword": "원가관리"
+        },
+        {
+          "keyword": "입고/입하"
+        },
+        {
+          "keyword": "자재구매"
+        },
+        {
+          "keyword": "조달구매"
+        },
+        {
+          "keyword": "WMS"
+        },
+        {
+          "keyword": "기전기사"
+        },
+        {
+          "keyword": "보건관리자"
+        },
+        {
+          "keyword": "안전관리자"
+        },
+        {
+          "keyword": "전기기사"
+        },
+        {
+          "keyword": "토목기술자"
+        },
+        {
+          "keyword": "토목설계"
+        },
+        {
+          "keyword": "통신설계"
+        },
+        {
+          "keyword": "건설관리"
+        },
+        {
+          "keyword": "건축설비"
+        },
+        {
+          "keyword": "건축전기"
+        },
+        {
+          "keyword": "부대토목"
+        },
+        {
+          "keyword": "전기설비"
+        },
+        {
+          "keyword": "전기시공"
+        },
+        {
+          "keyword": "토목건축"
+        },
+        {
+          "keyword": "토목공사"
+        },
+        {
+          "keyword": "토목공학"
+        },
+        {
+          "keyword": "통신공사"
+        },
+        {
+          "keyword": "플랜트토목"
+        },
+        {
+          "keyword": "전기제어"
+        },
+        {
+          "keyword": "영업"
+        },
+        {
+          "keyword": "영업기획"
+        },
+        {
+          "keyword": "법무"
+        },
+        {
+          "keyword": "구매"
+        },
+        {
+          "keyword": "메타버스"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "IDC"
+        },
+        {
+          "keyword": "VPN"
+        },
+        {
+          "keyword": "인터페이스"
+        },
+        {
+          "keyword": "ReactJS"
+        },
+        {
+          "keyword": "재무"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "제조"
+        },
+        {
+          "keyword": "라우터"
+        },
+        {
+          "keyword": "공무"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "에이치엔아이엔씨(주)",
+      "careerMin": 0,
+      "id": 43731341,
+      "position": "HN (舊현대BS&C) [ IT부문/건설부문/지원부서] 각 부문별 채용공고"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Docker"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "JPA"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "RestAPI"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,포털·인터넷·컨텐츠",
+      "companyName": "아이피엑스(주)",
+      "careerMin": 0,
+      "id": 43730156,
+      "position": "Web Software Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "MSSQL"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "React-Native"
+        },
+        {
+          "keyword": "RestAPI"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)호두랩스",
+      "careerMin": 0,
+      "id": 43729699,
+      "position": "BackEnd 개발자를 모십니다."
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "취약점진단"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "Kubernetes"
+        },
+        {
+          "keyword": "Python"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)스캐터랩",
+      "careerMin": 0,
+      "id": 43729229,
+      "position": "Security Engineer (DevSecOps)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Unreal"
+        },
+        {
+          "keyword": "R&D"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 0,
+      "id": 43728907,
+      "position": "[PUBG Dev Div.] Jr. Rendering Tech Engineer (경력 무관)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "Scala"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)하이퍼커넥트",
+      "careerMin": 0,
+      "id": 43728893,
+      "position": "Backend Software Engineer (Streaming Data Application)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "Unreal"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "게임기획"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 0,
+      "id": 43728746,
+      "position": "[BATTLEGROUNDS] Balance Designer (경력 무관)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "데이터분석"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 0,
+      "id": 43728675,
+      "position": "[PUBG Esports] Service Project Coordinator (경력 무관)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "네트웍구축"
+        },
+        {
+          "keyword": "장비구축"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "네트워크·통신·모바일,하드웨어·장비",
+      "companyName": "두나무(주)",
+      "careerMin": 3,
+      "id": 43728637,
+      "position": "안드로이드 개발자 (Android Engineer) 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "네트웍구축"
+        },
+        {
+          "keyword": "장비구축"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "방화벽"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "IDC"
+        },
+        {
+          "keyword": "VPN"
+        },
+        {
+          "keyword": "Windows"
+        },
+        {
+          "keyword": "Linux"
+        }
+      ],
+      "field": "네트워크·통신·모바일,하드웨어·장비",
+      "companyName": "두나무(주)",
+      "careerMin": 0,
+      "id": 43728565,
+      "position": "사내 IT 관리 담당자 (신입) 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Unreal"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)크래프톤",
+      "careerMin": 0,
+      "id": 43728548,
+      "position": "[BATTLEGROUNDS] UE4 Contents Programmer (경력 무관)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "WebRTC"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)하이퍼커넥트",
+      "careerMin": 0,
+      "id": 43728484,
+      "position": "Android Software Engineer(Slide)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "R"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스티베로",
+      "careerMin": 0,
+      "id": 43728148,
+      "position": "[R&D] DBMS Engine 개발자(DB 1실 및 2실)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "트러블슈팅"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "기술지원"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스티베로",
+      "careerMin": 0,
+      "id": 43728098,
+      "position": "[기술] DBMS 기술지원 엔지니어"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "딥러닝"
+        },
+        {
+          "keyword": "NLP(자연어처리)"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "LMS"
+        },
+        {
+          "keyword": "R"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스에듀",
+      "careerMin": 3,
+      "id": 43728033,
+      "position": "[R&D] Edu 연구 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "AR(증강현실)"
+        },
+        {
+          "keyword": "Spark"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "애니메이션"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "캐릭터디자인"
+        },
+        {
+          "keyword": "3D디자인"
+        },
+        {
+          "keyword": "렌더링"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "애프터이펙트"
+        },
+        {
+          "keyword": "일러스트"
+        },
+        {
+          "keyword": "지브러쉬"
+        },
+        {
+          "keyword": "Maya"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "스노우",
+      "careerMin": 7,
+      "id": 43727858,
+      "position": "3D 그래픽 디자이너 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "식품·푸드"
+        },
+        {
+          "keyword": "음식료"
+        },
+        {
+          "keyword": "케이터링"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "RPA"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "자금관리"
+        },
+        {
+          "keyword": "채권관리"
+        },
+        {
+          "keyword": "회계결산"
+        },
+        {
+          "keyword": "사무직"
+        },
+        {
+          "keyword": "사무행정"
+        },
+        {
+          "keyword": "서류관리"
+        },
+        {
+          "keyword": "타이핑"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "OA"
+        },
+        {
+          "keyword": "영업지원"
+        },
+        {
+          "keyword": "수/발주"
+        },
+        {
+          "keyword": "부주방장"
+        },
+        {
+          "keyword": "제과/제빵사"
+        },
+        {
+          "keyword": "조리사"
+        },
+        {
+          "keyword": "주방보조"
+        },
+        {
+          "keyword": "주방장"
+        },
+        {
+          "keyword": "푸드스타일리스트"
+        },
+        {
+          "keyword": "식단관리"
+        },
+        {
+          "keyword": "식당"
+        },
+        {
+          "keyword": "주방"
+        },
+        {
+          "keyword": "건축디자인"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "배차관리"
+        },
+        {
+          "keyword": "화물관리"
+        },
+        {
+          "keyword": "시공관리자"
+        },
+        {
+          "keyword": "인테리어공사"
+        },
+        {
+          "keyword": "홈인테리어"
+        },
+        {
+          "keyword": "AutoCAD"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "영양사"
+        },
+        {
+          "keyword": "인테리어"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "영업"
+        }
+      ],
+      "field": "외식업·식음료",
+      "companyName": "삼성웰스토리(주)",
+      "careerMin": 0,
+      "id": 43725496,
+      "position": "2022년 4급 신입사원 채용 (영업/운영지원, 정보전략, 물류운영, 디자인, 영양사, 조리사)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "보안·경비업체"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "보안컨설팅"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "CISO"
+        },
+        {
+          "keyword": "CPO"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "영상처리"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "DW"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": ".NET"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "JSP"
+        },
+        {
+          "keyword": "MSSQL"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "PL/SQL"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "보안요원"
+        },
+        {
+          "keyword": "안전요원"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "PL(프로젝트리더)"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "사업관리"
+        },
+        {
+          "keyword": "시설관리"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "시설관리·경비·용역",
+      "companyName": "에스케이쉴더스(주)",
+      "careerMin": 0,
+      "id": 43725107,
+      "position": "[SK쉴더스] IT개발 및 장비운영(출입통제,CCTV,차량관리 시스템) 경력직 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "항공사"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "조종사"
+        },
+        {
+          "keyword": "육상운송"
+        },
+        {
+          "keyword": "항공운송"
+        },
+        {
+          "keyword": "소형화물"
+        },
+        {
+          "keyword": "화물차(카고)"
+        },
+        {
+          "keyword": "영업관리"
+        },
+        {
+          "keyword": "영업직"
+        },
+        {
+          "keyword": "영업MD"
+        },
+        {
+          "keyword": "영업마케팅"
+        },
+        {
+          "keyword": "영업전략"
+        },
+        {
+          "keyword": "영업판촉"
+        },
+        {
+          "keyword": "항공무역"
+        },
+        {
+          "keyword": "호텔영업"
+        },
+        {
+          "keyword": "B2B"
+        },
+        {
+          "keyword": "B2C"
+        },
+        {
+          "keyword": "가맹점관리"
+        },
+        {
+          "keyword": "가맹점영업"
+        },
+        {
+          "keyword": "거래처관리"
+        },
+        {
+          "keyword": "거래처납품"
+        },
+        {
+          "keyword": "거래처영업"
+        },
+        {
+          "keyword": "고객관리"
+        },
+        {
+          "keyword": "여행사영업"
+        },
+        {
+          "keyword": "온라인영업"
+        },
+        {
+          "keyword": "고객안내"
+        },
+        {
+          "keyword": "고객응대"
+        },
+        {
+          "keyword": "호텔"
+        },
+        {
+          "keyword": "마케팅기획"
+        },
+        {
+          "keyword": "마케팅전략"
+        },
+        {
+          "keyword": "기업홍보"
+        },
+        {
+          "keyword": "온라인마케팅"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "포워더"
+        },
+        {
+          "keyword": "국제물류"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "구매대행/소싱"
+        },
+        {
+          "keyword": "보세구역관리"
+        },
+        {
+          "keyword": "보세화물관리"
+        },
+        {
+          "keyword": "수/발주"
+        },
+        {
+          "keyword": "입고/입하"
+        },
+        {
+          "keyword": "화물관리"
+        },
+        {
+          "keyword": "인바운드"
+        },
+        {
+          "keyword": "CS"
+        },
+        {
+          "keyword": "전화상담"
+        },
+        {
+          "keyword": "마케팅"
+        },
+        {
+          "keyword": "영업"
+        },
+        {
+          "keyword": "영업기획"
+        },
+        {
+          "keyword": "홍보"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "재무"
+        },
+        {
+          "keyword": "운전"
+        },
+        {
+          "keyword": "구매"
+        }
+      ],
+      "field": "호텔·여행·항공",
+      "companyName": "(주)제주항공",
+      "careerMin": 0,
+      "id": 43722565,
+      "position": "2022년 일반직 수시채용(경력/신입)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "GM(게임운영)"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "Django"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Spark"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)엔픽셀",
+      "careerMin": 2,
+      "id": 43721575,
+      "position": "[그랑사가] 데이터엔지니어 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "게임기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "트렌드분석"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "슈퍼센트",
+      "careerMin": 0,
+      "id": 43721361,
+      "position": "모바일 게임 기획자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "게임디자인"
+        },
+        {
+          "keyword": "2D디자인"
+        },
+        {
+          "keyword": "3D디자인"
+        },
+        {
+          "keyword": "컨셉아트"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "PhotoShop"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "슈퍼센트",
+      "careerMin": 0,
+      "id": 43721334,
+      "position": "게임 아트 디자이너"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "딥러닝"
+        },
+        {
+          "keyword": "리서치"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)스캐터랩",
+      "careerMin": 0,
+      "id": 43720733,
+      "position": "데이터 기획자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "DevOps"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "Python"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)스캐터랩",
+      "careerMin": 0,
+      "id": 43720696,
+      "position": "Site Reliability Engineer (DevOps)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "머신러닝"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Pytorch"
+        },
+        {
+          "keyword": "Tensorflow"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)스캐터랩",
+      "careerMin": 0,
+      "id": 43720639,
+      "position": "머신러닝 플랫폼 엔지니어"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "IR/공시"
+        },
+        {
+          "keyword": "부가세신고"
+        },
+        {
+          "keyword": "세무신고"
+        },
+        {
+          "keyword": "외부감사"
+        },
+        {
+          "keyword": "원천세신고"
+        },
+        {
+          "keyword": "회계결산"
+        },
+        {
+          "keyword": "영업관리"
+        },
+        {
+          "keyword": "설비OP"
+        },
+        {
+          "keyword": "PSM"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "브랜드마케팅"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "생산기술"
+        },
+        {
+          "keyword": "마케팅"
+        },
+        {
+          "keyword": "품질보증"
+        },
+        {
+          "keyword": "홍보"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)세아제강",
+      "careerMin": 1,
+      "id": 43720626,
+      "position": "2022년 신입사원 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "스크립트"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "애니메이션"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "일러스트"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM,게임",
+      "companyName": "(주)펄어비스",
+      "careerMin": 0,
+      "id": 43720343,
+      "position": "애니메이터 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "머신러닝"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "이미지프로세싱"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "ETL"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Apache"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Hadoop"
+        },
+        {
+          "keyword": "HBase"
+        },
+        {
+          "keyword": "Kafka"
+        },
+        {
+          "keyword": "NoSQL"
+        },
+        {
+          "keyword": "PostgreSQL"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Spark"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)트릿지",
+      "careerMin": 0,
+      "id": 43719887,
+      "position": "Junior Data Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "Linux"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "PHP"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "Redis"
+        },
+        {
+          "keyword": "RestAPI"
+        },
+        {
+          "keyword": "Ruby"
+        },
+        {
+          "keyword": "Vue.js"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "팀블라인드 주식회사",
+      "careerMin": 0,
+      "id": 43719831,
+      "position": "서버 개발자 (Node.js)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "CD(크리에이티브디렉터)"
+        },
+        {
+          "keyword": "리서치"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스오피스",
+      "careerMin": 0,
+      "id": 43719313,
+      "position": "SuperAppStudio 개발 연구원"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "CSS3"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "Figma"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "Sketch"
+        },
+        {
+          "keyword": "Zeplin"
+        },
+        {
+          "keyword": "상품기획"
+        },
+        {
+          "keyword": "웹기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "라인플러스(주)",
+      "careerMin": 3,
+      "id": 43719295,
+      "position": "NFT Fandom Product Web Publisher"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "PowerPoint"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "글로벌마케팅"
+        },
+        {
+          "keyword": "B2B마케팅"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "사업개발"
+        },
+        {
+          "keyword": "신사업기획"
+        },
+        {
+          "keyword": "신사업발굴"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "라인플러스(주)",
+      "careerMin": 3,
+      "id": 43719225,
+      "position": "Global Business Development & Strategy (Contents/AI)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "GM(게임운영)"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "디지털디자인"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "2D디자인"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "게임기획"
+        },
+        {
+          "keyword": "UI/UX"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)플레이링스",
+      "careerMin": 0,
+      "id": 43718134,
+      "position": "[아트] 시스템 애니메이션 & 이펙트 디자이너"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "종합포털"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "Objective-C"
+        },
+        {
+          "keyword": "Swift"
+        },
+        {
+          "keyword": "프로토타이핑"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "라인플러스(주)",
+      "careerMin": 0,
+      "id": 43718132,
+      "position": "Messenger Android/iOS Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "GM(게임운영)"
+        },
+        {
+          "keyword": "블록체인"
+        },
+        {
+          "keyword": "게임기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)플레이링스",
+      "careerMin": 0,
+      "id": 43718054,
+      "position": "[기획] 캐주얼 게임 기획자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "Vue.js"
+        },
+        {
+          "keyword": "웹디자인"
+        },
+        {
+          "keyword": "웹기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)플레이링스",
+      "careerMin": 0,
+      "id": 43718021,
+      "position": "[개발] 웹 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "쇼핑몰"
+        },
+        {
+          "keyword": "오픈마켓"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "Pro-C"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "기타서비스업,쇼핑몰·오픈마켓,판매(상품품목별)",
+      "companyName": "엔에이치선물(주)",
+      "careerMin": 0,
+      "id": 43717856,
+      "position": "IT부문 신입사원 채용 [계정계]"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "R"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스오에스",
+      "careerMin": 0,
+      "id": 43717672,
+      "position": "[R&D] OS부문 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "SaaS"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스비아이",
+      "careerMin": 0,
+      "id": 43717615,
+      "position": "[R&D] SuperCompany SaaS 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "R"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스와플",
+      "careerMin": 3,
+      "id": 43717550,
+      "position": "[R&D] WAPL 협업 Solution 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "Node.js"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "TypeScript"
+        },
+        {
+          "keyword": "Vue.js"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "풀스택"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43715957,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(웹 풀스택 개발자)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "이커머스"
+        },
+        {
+          "keyword": "앱디자인"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "전략기획"
+        },
+        {
+          "keyword": "UI/UX"
+        },
+        {
+          "keyword": "컨설턴트"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43715778,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(솔루션 컨설턴트)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "이커머스"
+        },
+        {
+          "keyword": "PMO"
+        },
+        {
+          "keyword": "경영분석"
+        },
+        {
+          "keyword": "리서치"
+        },
+        {
+          "keyword": "트렌드분석"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43715674,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(BA/PMO)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "S/W"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43715546,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(릴리즈 매니저)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "DevOps"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "SaaS"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43715445,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(DevOps엔지니어)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "건설현장"
+        },
+        {
+          "keyword": "건설회사"
+        },
+        {
+          "keyword": "건축"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "웹마스터"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "영상처리"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "세무사"
+        },
+        {
+          "keyword": "회계사"
+        },
+        {
+          "keyword": "AICPA"
+        },
+        {
+          "keyword": "IR/공시"
+        },
+        {
+          "keyword": "관리회계"
+        },
+        {
+          "keyword": "기업회계"
+        },
+        {
+          "keyword": "세무신고"
+        },
+        {
+          "keyword": "세무조정"
+        },
+        {
+          "keyword": "세무컨설팅"
+        },
+        {
+          "keyword": "세무회계"
+        },
+        {
+          "keyword": "원가회계"
+        },
+        {
+          "keyword": "재무기획"
+        },
+        {
+          "keyword": "재무회계"
+        },
+        {
+          "keyword": "법무사"
+        },
+        {
+          "keyword": "비서"
+        },
+        {
+          "keyword": "사무직"
+        },
+        {
+          "keyword": "송무비서"
+        },
+        {
+          "keyword": "총무"
+        },
+        {
+          "keyword": "인/허가"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "경영지원"
+        },
+        {
+          "keyword": "영업직"
+        },
+        {
+          "keyword": "해외영업"
+        },
+        {
+          "keyword": "해외영업관리"
+        },
+        {
+          "keyword": "해외영업지원"
+        },
+        {
+          "keyword": "안내데스크"
+        },
+        {
+          "keyword": "고객안내"
+        },
+        {
+          "keyword": "프론트"
+        },
+        {
+          "keyword": "기계조작원"
+        },
+        {
+          "keyword": "공정엔지니어"
+        },
+        {
+          "keyword": "공정설계"
+        },
+        {
+          "keyword": "기계설계"
+        },
+        {
+          "keyword": "전기설계"
+        },
+        {
+          "keyword": "전기제어"
+        },
+        {
+          "keyword": "반도체설계"
+        },
+        {
+          "keyword": "3D설계"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "AutoCAD"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "CAM"
+        },
+        {
+          "keyword": "영상디자이너"
+        },
+        {
+          "keyword": "촬영감독"
+        },
+        {
+          "keyword": "영상자막"
+        },
+        {
+          "keyword": "영상제작"
+        },
+        {
+          "keyword": "영상편집"
+        },
+        {
+          "keyword": "촬영"
+        },
+        {
+          "keyword": "촬영보조"
+        },
+        {
+          "keyword": "유튜브"
+        },
+        {
+          "keyword": "마케팅기획"
+        },
+        {
+          "keyword": "마케팅전략"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "광고마케팅"
+        },
+        {
+          "keyword": "글로벌마케팅"
+        },
+        {
+          "keyword": "기업홍보"
+        },
+        {
+          "keyword": "콘텐츠마케팅"
+        },
+        {
+          "keyword": "콘텐츠에디터"
+        },
+        {
+          "keyword": "BM(브랜드매니저)"
+        },
+        {
+          "keyword": "시장조사"
+        },
+        {
+          "keyword": "이벤트프로모션"
+        },
+        {
+          "keyword": "퍼블리시티"
+        },
+        {
+          "keyword": "IMC"
+        },
+        {
+          "keyword": "광고디자인"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "실내디자인"
+        },
+        {
+          "keyword": "영상디자인"
+        },
+        {
+          "keyword": "웹디자인"
+        },
+        {
+          "keyword": "콘텐츠디자인"
+        },
+        {
+          "keyword": "편집디자인"
+        },
+        {
+          "keyword": "CI디자인"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "브로슈어"
+        },
+        {
+          "keyword": "잡지"
+        },
+        {
+          "keyword": "카탈로그"
+        },
+        {
+          "keyword": "드림위버"
+        },
+        {
+          "keyword": "파이널컷"
+        },
+        {
+          "keyword": "프리미어"
+        },
+        {
+          "keyword": "플래시"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "QuarkXpress"
+        },
+        {
+          "keyword": "Sketch"
+        },
+        {
+          "keyword": "경영기획"
+        },
+        {
+          "keyword": "기술기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "국제물류"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "견적관리"
+        },
+        {
+          "keyword": "감리원"
+        },
+        {
+          "keyword": "건설견적원"
+        },
+        {
+          "keyword": "건축가"
+        },
+        {
+          "keyword": "건축기사"
+        },
+        {
+          "keyword": "공무"
+        },
+        {
+          "keyword": "기계기사"
+        },
+        {
+          "keyword": "기전기사"
+        },
+        {
+          "keyword": "시공관리자"
+        },
+        {
+          "keyword": "시공기사"
+        },
+        {
+          "keyword": "안전관리자"
+        },
+        {
+          "keyword": "전기기사"
+        },
+        {
+          "keyword": "토목기술자"
+        },
+        {
+          "keyword": "환경관리자"
+        },
+        {
+          "keyword": "건축구조설계"
+        },
+        {
+          "keyword": "토목설계"
+        },
+        {
+          "keyword": "환경설계"
+        },
+        {
+          "keyword": "간판시공"
+        },
+        {
+          "keyword": "건축설비"
+        },
+        {
+          "keyword": "건축전기"
+        },
+        {
+          "keyword": "도시교통"
+        },
+        {
+          "keyword": "소방/방재"
+        },
+        {
+          "keyword": "실내건축시공"
+        },
+        {
+          "keyword": "인테리어공사"
+        },
+        {
+          "keyword": "전기설비"
+        },
+        {
+          "keyword": "전기시공"
+        },
+        {
+          "keyword": "조경공사"
+        },
+        {
+          "keyword": "측량/계측"
+        },
+        {
+          "keyword": "토목공사"
+        },
+        {
+          "keyword": "홈인테리어"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "기획"
+        },
+        {
+          "keyword": "인테리어"
+        },
+        {
+          "keyword": "호텔"
+        },
+        {
+          "keyword": "영어"
+        },
+        {
+          "keyword": "골조"
+        },
+        {
+          "keyword": "리모델링"
+        },
+        {
+          "keyword": "건축설계"
+        }
+      ],
+      "field": "건설·건축·토목·시공",
+      "companyName": "(주)희림종합건축사사무소",
+      "careerMin": 0,
+      "id": 43713454,
+      "position": "건축설계/CM PJT현장 채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "식품·푸드"
+        },
+        {
+          "keyword": "음식료"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "텍스트마이닝"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "IoT"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "VR(가상현실)"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "CSS3"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "JSP"
+        },
+        {
+          "keyword": "MSSQL"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "NoSQL"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "PL/SQL"
+        },
+        {
+          "keyword": "PostgreSQL"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "SQLite"
+        },
+        {
+          "keyword": "Tensorflow"
+        },
+        {
+          "keyword": "감사"
+        },
+        {
+          "keyword": "세무사"
+        },
+        {
+          "keyword": "전산회계"
+        },
+        {
+          "keyword": "IR/공시"
+        },
+        {
+          "keyword": "더존"
+        },
+        {
+          "keyword": "관리회계"
+        },
+        {
+          "keyword": "기업회계"
+        },
+        {
+          "keyword": "내부감사"
+        },
+        {
+          "keyword": "법인결산"
+        },
+        {
+          "keyword": "법인세신고"
+        },
+        {
+          "keyword": "부가세신고"
+        },
+        {
+          "keyword": "세무조정"
+        },
+        {
+          "keyword": "세무회계"
+        },
+        {
+          "keyword": "손익관리"
+        },
+        {
+          "keyword": "연결회계"
+        },
+        {
+          "keyword": "예산관리"
+        },
+        {
+          "keyword": "외부감사"
+        },
+        {
+          "keyword": "외환관리"
+        },
+        {
+          "keyword": "원가관리"
+        },
+        {
+          "keyword": "원가회계"
+        },
+        {
+          "keyword": "원천세신고"
+        },
+        {
+          "keyword": "자금관리"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "자산운용"
+        },
+        {
+          "keyword": "자체기장"
+        },
+        {
+          "keyword": "재무기획"
+        },
+        {
+          "keyword": "재무제표"
+        },
+        {
+          "keyword": "재무회계"
+        },
+        {
+          "keyword": "채권관리"
+        },
+        {
+          "keyword": "회계결산"
+        },
+        {
+          "keyword": "세무사사무실"
+        },
+        {
+          "keyword": "사무직"
+        },
+        {
+          "keyword": "서무"
+        },
+        {
+          "keyword": "총무"
+        },
+        {
+          "keyword": "컴플라이언스"
+        },
+        {
+          "keyword": "특허명세사"
+        },
+        {
+          "keyword": "기술사업화"
+        },
+        {
+          "keyword": "문서작성"
+        },
+        {
+          "keyword": "비품관리"
+        },
+        {
+          "keyword": "사내행사"
+        },
+        {
+          "keyword": "사무보조"
+        },
+        {
+          "keyword": "사무행정"
+        },
+        {
+          "keyword": "사이트관리"
+        },
+        {
+          "keyword": "상표관리"
+        },
+        {
+          "keyword": "서류관리"
+        },
+        {
+          "keyword": "시설관리"
+        },
+        {
+          "keyword": "인/허가"
+        },
+        {
+          "keyword": "자료입력"
+        },
+        {
+          "keyword": "자료조사"
+        },
+        {
+          "keyword": "전산총무"
+        },
+        {
+          "keyword": "전화응대"
+        },
+        {
+          "keyword": "제증명발급"
+        },
+        {
+          "keyword": "콘텐츠관리"
+        },
+        {
+          "keyword": "타이핑"
+        },
+        {
+          "keyword": "특허관리"
+        },
+        {
+          "keyword": "특허분석"
+        },
+        {
+          "keyword": "특허컨설팅"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "IP(지식재산권)"
+        },
+        {
+          "keyword": "OA"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "PowerPoint"
+        },
+        {
+          "keyword": "정보처리"
+        },
+        {
+          "keyword": "경영지원"
+        },
+        {
+          "keyword": "채용담당자"
+        },
+        {
+          "keyword": "잡매니저"
+        },
+        {
+          "keyword": "HRD"
+        },
+        {
+          "keyword": "HRM"
+        },
+        {
+          "keyword": "급여(Payroll)"
+        },
+        {
+          "keyword": "면접/인터뷰"
+        },
+        {
+          "keyword": "법정의무교육"
+        },
+        {
+          "keyword": "복리후생"
+        },
+        {
+          "keyword": "실적관리"
+        },
+        {
+          "keyword": "아웃소싱"
+        },
+        {
+          "keyword": "온보딩"
+        },
+        {
+          "keyword": "인력관리"
+        },
+        {
+          "keyword": "인사교육"
+        },
+        {
+          "keyword": "인사기획"
+        },
+        {
+          "keyword": "인사행정"
+        },
+        {
+          "keyword": "인재발굴"
+        },
+        {
+          "keyword": "임금협상"
+        },
+        {
+          "keyword": "조직문화"
+        },
+        {
+          "keyword": "직업훈련"
+        },
+        {
+          "keyword": "채용공고관리"
+        },
+        {
+          "keyword": "채용대행"
+        },
+        {
+          "keyword": "채용설명회"
+        },
+        {
+          "keyword": "파견관리"
+        },
+        {
+          "keyword": "평가/보상"
+        },
+        {
+          "keyword": "영양사"
+        },
+        {
+          "keyword": "직업환경의학과"
+        },
+        {
+          "keyword": "영업관리"
+        },
+        {
+          "keyword": "영업지원"
+        },
+        {
+          "keyword": "영업직"
+        },
+        {
+          "keyword": "판매직"
+        },
+        {
+          "keyword": "건강식품판매"
+        },
+        {
+          "keyword": "식품/음료영업"
+        },
+        {
+          "keyword": "식품/음료판매"
+        },
+        {
+          "keyword": "영업마케팅"
+        },
+        {
+          "keyword": "영업전략"
+        },
+        {
+          "keyword": "영업판촉"
+        },
+        {
+          "keyword": "온라인판매"
+        },
+        {
+          "keyword": "해외시장개척"
+        },
+        {
+          "keyword": "해외영업"
+        },
+        {
+          "keyword": "B2C"
+        },
+        {
+          "keyword": "거래처관리"
+        },
+        {
+          "keyword": "거래처납품"
+        },
+        {
+          "keyword": "거래처영업"
+        },
+        {
+          "keyword": "고객관리"
+        },
+        {
+          "keyword": "공공영업"
+        },
+        {
+          "keyword": "기업영업"
+        },
+        {
+          "keyword": "마트영업"
+        },
+        {
+          "keyword": "매출관리"
+        },
+        {
+          "keyword": "쇼핑몰관리"
+        },
+        {
+          "keyword": "수/발주"
+        },
+        {
+          "keyword": "수출입"
+        },
+        {
+          "keyword": "온라인영업"
+        },
+        {
+          "keyword": "유통영업"
+        },
+        {
+          "keyword": "점포개발"
+        },
+        {
+          "keyword": "통관"
+        },
+        {
+          "keyword": "해외영업관리"
+        },
+        {
+          "keyword": "해외영업지원"
+        },
+        {
+          "keyword": "대기측정분석사"
+        },
+        {
+          "keyword": "연구원"
+        },
+        {
+          "keyword": "환경측정분석사"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "R&D기획"
+        },
+        {
+          "keyword": "기술연구"
+        },
+        {
+          "keyword": "로봇설계"
+        },
+        {
+          "keyword": "메뉴개발"
+        },
+        {
+          "keyword": "수질분석"
+        },
+        {
+          "keyword": "식품연구"
+        },
+        {
+          "keyword": "신소재"
+        },
+        {
+          "keyword": "알고리즘개발"
+        },
+        {
+          "keyword": "정책연구"
+        },
+        {
+          "keyword": "토양환경"
+        },
+        {
+          "keyword": "학술연구"
+        },
+        {
+          "keyword": "환경오염"
+        },
+        {
+          "keyword": "부주방장"
+        },
+        {
+          "keyword": "뷰티매니저"
+        },
+        {
+          "keyword": "제과/제빵사"
+        },
+        {
+          "keyword": "조리사"
+        },
+        {
+          "keyword": "주방장"
+        },
+        {
+          "keyword": "급식소"
+        },
+        {
+          "keyword": "호텔"
+        },
+        {
+          "keyword": "생산관리"
+        },
+        {
+          "keyword": "QA"
+        },
+        {
+          "keyword": "공정엔지니어"
+        },
+        {
+          "keyword": "기술엔지니어"
+        },
+        {
+          "keyword": "설계엔지니어"
+        },
+        {
+          "keyword": "PSM"
+        },
+        {
+          "keyword": "공정설계"
+        },
+        {
+          "keyword": "생산설계"
+        },
+        {
+          "keyword": "시스템설계"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "자동화설계"
+        },
+        {
+          "keyword": "자동화라인"
+        },
+        {
+          "keyword": "MES"
+        },
+        {
+          "keyword": "생산자동화"
+        },
+        {
+          "keyword": "스마트팩토리"
+        },
+        {
+          "keyword": "품질분석"
+        },
+        {
+          "keyword": "FA(공장자동화)"
+        },
+        {
+          "keyword": "기획MD"
+        },
+        {
+          "keyword": "브랜드MD"
+        },
+        {
+          "keyword": "영업MD"
+        },
+        {
+          "keyword": "온라인MD"
+        },
+        {
+          "keyword": "유통MD"
+        },
+        {
+          "keyword": "가공식품"
+        },
+        {
+          "keyword": "건강기능식품"
+        },
+        {
+          "keyword": "브랜드관리"
+        },
+        {
+          "keyword": "브랜드기획"
+        },
+        {
+          "keyword": "브랜드런칭"
+        },
+        {
+          "keyword": "브랜드확장"
+        },
+        {
+          "keyword": "브랜딩"
+        },
+        {
+          "keyword": "상품관리"
+        },
+        {
+          "keyword": "쇼핑몰"
+        },
+        {
+          "keyword": "시장조사"
+        },
+        {
+          "keyword": "식품"
+        },
+        {
+          "keyword": "오픈마켓"
+        },
+        {
+          "keyword": "이커머스"
+        },
+        {
+          "keyword": "자사몰관리"
+        },
+        {
+          "keyword": "트렌드분석"
+        },
+        {
+          "keyword": "프로모션기획"
+        },
+        {
+          "keyword": "회원분석"
+        },
+        {
+          "keyword": "CS관리"
+        },
+        {
+          "keyword": "영상디자이너"
+        },
+        {
+          "keyword": "AE(광고기획자)"
+        },
+        {
+          "keyword": "영상자막"
+        },
+        {
+          "keyword": "영상제작"
+        },
+        {
+          "keyword": "영상편집"
+        },
+        {
+          "keyword": "촬영"
+        },
+        {
+          "keyword": "유튜브"
+        },
+        {
+          "keyword": "병원마케팅"
+        },
+        {
+          "keyword": "마케팅기획"
+        },
+        {
+          "keyword": "마케팅전략"
+        },
+        {
+          "keyword": "블로그마케팅"
+        },
+        {
+          "keyword": "스포츠마케팅"
+        },
+        {
+          "keyword": "인플루언서마케팅"
+        },
+        {
+          "keyword": "체험마케팅"
+        },
+        {
+          "keyword": "행사기획"
+        },
+        {
+          "keyword": "SNS마케팅"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "광고마케팅"
+        },
+        {
+          "keyword": "광고PD"
+        },
+        {
+          "keyword": "글로벌마케팅"
+        },
+        {
+          "keyword": "기업홍보"
+        },
+        {
+          "keyword": "디지털마케팅"
+        },
+        {
+          "keyword": "모바일마케팅"
+        },
+        {
+          "keyword": "미디어플래너"
+        },
+        {
+          "keyword": "바이럴마케팅"
+        },
+        {
+          "keyword": "브랜드마케팅"
+        },
+        {
+          "keyword": "비즈니스마케팅"
+        },
+        {
+          "keyword": "오프라인마케팅"
+        },
+        {
+          "keyword": "온라인마케팅"
+        },
+        {
+          "keyword": "제휴마케팅"
+        },
+        {
+          "keyword": "조사원"
+        },
+        {
+          "keyword": "콘텐츠마케팅"
+        },
+        {
+          "keyword": "콘텐츠에디터"
+        },
+        {
+          "keyword": "퍼포먼스마케팅"
+        },
+        {
+          "keyword": "프로덕트마케팅"
+        },
+        {
+          "keyword": "BM(브랜드매니저)"
+        },
+        {
+          "keyword": "CRM마케팅"
+        },
+        {
+          "keyword": "검색광고"
+        },
+        {
+          "keyword": "광고주관리"
+        },
+        {
+          "keyword": "광고캠페인"
+        },
+        {
+          "keyword": "매체관리"
+        },
+        {
+          "keyword": "배너광고"
+        },
+        {
+          "keyword": "세일즈프로모션"
+        },
+        {
+          "keyword": "언론홍보"
+        },
+        {
+          "keyword": "옥외광고"
+        },
+        {
+          "keyword": "이벤트프로모션"
+        },
+        {
+          "keyword": "키워드광고"
+        },
+        {
+          "keyword": "통계/분석"
+        },
+        {
+          "keyword": "퍼블리시티"
+        },
+        {
+          "keyword": "ATL"
+        },
+        {
+          "keyword": "BTL"
+        },
+        {
+          "keyword": "RFP(제안요청서)"
+        },
+        {
+          "keyword": "모바일디자인"
+        },
+        {
+          "keyword": "브랜드디자인"
+        },
+        {
+          "keyword": "앱디자인"
+        },
+        {
+          "keyword": "영상디자인"
+        },
+        {
+          "keyword": "웹디자인"
+        },
+        {
+          "keyword": "콘텐츠디자인"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "GUI"
+        },
+        {
+          "keyword": "파이널컷"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "경영기획"
+        },
+        {
+          "keyword": "광고기획"
+        },
+        {
+          "keyword": "기술기획"
+        },
+        {
+          "keyword": "사업기획"
+        },
+        {
+          "keyword": "상품기획"
+        },
+        {
+          "keyword": "서비스기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "전략기획"
+        },
+        {
+          "keyword": "PL(프로젝트리더)"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "경영분석"
+        },
+        {
+          "keyword": "경영컨설팅"
+        },
+        {
+          "keyword": "경영혁신(PI)"
+        },
+        {
+          "keyword": "리서치"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "사업개발"
+        },
+        {
+          "keyword": "사업관리"
+        },
+        {
+          "keyword": "사업제휴"
+        },
+        {
+          "keyword": "스토리보드"
+        },
+        {
+          "keyword": "신사업기획"
+        },
+        {
+          "keyword": "신사업발굴"
+        },
+        {
+          "keyword": "조직관리"
+        },
+        {
+          "keyword": "지속가능경영"
+        },
+        {
+          "keyword": "타당성검토"
+        },
+        {
+          "keyword": "KPI관리"
+        },
+        {
+          "keyword": "UI/UX"
+        },
+        {
+          "keyword": "애널리스트"
+        },
+        {
+          "keyword": "구매관리"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "자재관리"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "창고관리"
+        },
+        {
+          "keyword": "포워더"
+        },
+        {
+          "keyword": "구매기획"
+        },
+        {
+          "keyword": "국제물류"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "유통관리"
+        },
+        {
+          "keyword": "SRM"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "개발구매"
+        },
+        {
+          "keyword": "검품/검수"
+        },
+        {
+          "keyword": "견적관리"
+        },
+        {
+          "keyword": "납기관리"
+        },
+        {
+          "keyword": "물류자동화"
+        },
+        {
+          "keyword": "수급관리"
+        },
+        {
+          "keyword": "수불관리"
+        },
+        {
+          "keyword": "양산구매"
+        },
+        {
+          "keyword": "외자구매"
+        },
+        {
+          "keyword": "외주관리"
+        },
+        {
+          "keyword": "입고/입하"
+        },
+        {
+          "keyword": "자재구매"
+        },
+        {
+          "keyword": "전략구매"
+        },
+        {
+          "keyword": "정산관리"
+        },
+        {
+          "keyword": "조달구매"
+        },
+        {
+          "keyword": "집하/분류"
+        },
+        {
+          "keyword": "출고/출하"
+        },
+        {
+          "keyword": "패킹(포장)"
+        },
+        {
+          "keyword": "피킹(집품)"
+        },
+        {
+          "keyword": "화물관리"
+        },
+        {
+          "keyword": "MRO"
+        },
+        {
+          "keyword": "WMS"
+        },
+        {
+          "keyword": "CS"
+        },
+        {
+          "keyword": "VOC분석"
+        },
+        {
+          "keyword": "공조냉동기사"
+        },
+        {
+          "keyword": "대기환경기사"
+        },
+        {
+          "keyword": "수질환경기사"
+        },
+        {
+          "keyword": "안전관리자"
+        },
+        {
+          "keyword": "토양환경기사"
+        },
+        {
+          "keyword": "환경관리자"
+        },
+        {
+          "keyword": "환경설계"
+        },
+        {
+          "keyword": "공조설비"
+        },
+        {
+          "keyword": "대기측정분석"
+        },
+        {
+          "keyword": "위생설비"
+        },
+        {
+          "keyword": "작업환경측정"
+        },
+        {
+          "keyword": "친환경건축"
+        },
+        {
+          "keyword": "환경분석"
+        },
+        {
+          "keyword": "환경영향평가"
+        },
+        {
+          "keyword": "환경플랜트"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "생산"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "인사"
+        },
+        {
+          "keyword": "생산기술"
+        },
+        {
+          "keyword": "마케팅"
+        },
+        {
+          "keyword": "영업"
+        },
+        {
+          "keyword": "품질보증"
+        },
+        {
+          "keyword": "기획"
+        },
+        {
+          "keyword": "영업기획"
+        },
+        {
+          "keyword": "공정관리"
+        },
+        {
+          "keyword": "요리사"
+        },
+        {
+          "keyword": "법무"
+        },
+        {
+          "keyword": "재무"
+        },
+        {
+          "keyword": "경영관리"
+        },
+        {
+          "keyword": "구매"
+        },
+        {
+          "keyword": "헬스케어"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "4대보험"
+        },
+        {
+          "keyword": "NDR"
+        },
+        {
+          "keyword": "B2B"
+        },
+        {
+          "keyword": "주문관리"
+        },
+        {
+          "keyword": "식당"
+        },
+        {
+          "keyword": "제조"
+        },
+        {
+          "keyword": "레크레이션"
+        },
+        {
+          "keyword": "영어"
+        },
+        {
+          "keyword": "일본어"
+        },
+        {
+          "keyword": "중국어"
+        },
+        {
+          "keyword": "편성"
+        },
+        {
+          "keyword": "비딩"
+        },
+        {
+          "keyword": "제안서"
+        },
+        {
+          "keyword": "자산운용사"
+        },
+        {
+          "keyword": "증권사"
+        },
+        {
+          "keyword": "위험성평가"
+        }
+      ],
+      "field": "외식업·식음료",
+      "companyName": "(주)풀무원",
+      "careerMin": 0,
+      "id": 43712639,
+      "position": "풀무원 각 부문 경력/신입사원 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "경영혁신(PI)"
+        },
+        {
+          "keyword": "ISP"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 3,
+      "id": 43712089,
+      "position": "22년(하) 솔루션사업부 경력사원 채용 공고(ERP 컨설팅)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "Pytorch"
+        },
+        {
+          "keyword": "React"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스비아이",
+      "careerMin": 0,
+      "id": 43711865,
+      "position": "AI 빅데이터 분석 플랫폼 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "앱기획"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43711807,
+      "position": "22년(하) 클라우드서비스사업부 경력사원 채용(SCP/MSP아키텍트)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "데이터마이닝"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "PL(프로젝트리더)"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 4,
+      "id": 43711381,
+      "position": "22년(하) 클라우드서비스사업부 경력사원 채용(MSP Application)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "기술엔지니어"
+        }
+      ],
+      "field": "기타제조업,반도체·광학·LCD",
+      "companyName": "에스케이하이닉스(주)",
+      "careerMin": 5,
+      "id": 43711186,
+      "position": "[경력] SSD Flash Translation Layer FW Engineer 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "디스플레이"
+        },
+        {
+          "keyword": "반도체"
+        },
+        {
+          "keyword": "정밀광학"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "기술영업"
+        },
+        {
+          "keyword": "솔루션기술영업"
+        },
+        {
+          "keyword": "관광통역안내사"
+        },
+        {
+          "keyword": "기술엔지니어"
+        },
+        {
+          "keyword": "설계엔지니어"
+        },
+        {
+          "keyword": "기계설계"
+        },
+        {
+          "keyword": "기구설계"
+        },
+        {
+          "keyword": "기술설계"
+        },
+        {
+          "keyword": "부품설계"
+        },
+        {
+          "keyword": "시스템설계"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "장비설계"
+        },
+        {
+          "keyword": "장비제어"
+        },
+        {
+          "keyword": "전기제어"
+        },
+        {
+          "keyword": "전자제어"
+        },
+        {
+          "keyword": "반도체설계"
+        },
+        {
+          "keyword": "증착"
+        },
+        {
+          "keyword": "PLC"
+        },
+        {
+          "keyword": "보건관리자"
+        },
+        {
+          "keyword": "안전관리자"
+        },
+        {
+          "keyword": "전기기사"
+        },
+        {
+          "keyword": "위생설비"
+        }
+      ],
+      "field": "반도체·광학·LCD",
+      "companyName": "캐논쎄미콘덕터엔지니어링코리아(주)",
+      "careerMin": 0,
+      "id": 43711055,
+      "position": "Field Service Engineer, 안전담당자 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "무역업"
+        },
+        {
+          "keyword": "상사"
+        },
+        {
+          "keyword": "유통업"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "보안컨설팅"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "데이터시각화"
+        },
+        {
+          "keyword": "방화벽"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "영상처리"
+        },
+        {
+          "keyword": "웹표준·웹접근성"
+        },
+        {
+          "keyword": "이미지프로세싱"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "RDBMS"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "와이어샤크"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "JSP"
+        },
+        {
+          "keyword": "MariaDB"
+        },
+        {
+          "keyword": "MongoDB"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "PL/SQL"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "전산회계"
+        },
+        {
+          "keyword": "더존"
+        },
+        {
+          "keyword": "4대보험"
+        },
+        {
+          "keyword": "관리회계"
+        },
+        {
+          "keyword": "기업회계"
+        },
+        {
+          "keyword": "법인결산"
+        },
+        {
+          "keyword": "법인세신고"
+        },
+        {
+          "keyword": "부가세신고"
+        },
+        {
+          "keyword": "세무신고"
+        },
+        {
+          "keyword": "세무조정"
+        },
+        {
+          "keyword": "세무회계"
+        },
+        {
+          "keyword": "손익관리"
+        },
+        {
+          "keyword": "연결회계"
+        },
+        {
+          "keyword": "예산관리"
+        },
+        {
+          "keyword": "원가관리"
+        },
+        {
+          "keyword": "원가회계"
+        },
+        {
+          "keyword": "원천세신고"
+        },
+        {
+          "keyword": "자금관리"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "재무기획"
+        },
+        {
+          "keyword": "재무제표"
+        },
+        {
+          "keyword": "재무회계"
+        },
+        {
+          "keyword": "전표입력"
+        },
+        {
+          "keyword": "종합소득세"
+        },
+        {
+          "keyword": "채권관리"
+        },
+        {
+          "keyword": "출납"
+        },
+        {
+          "keyword": "회계결산"
+        },
+        {
+          "keyword": "IFRS"
+        },
+        {
+          "keyword": "해외법인"
+        },
+        {
+          "keyword": "교육행정"
+        },
+        {
+          "keyword": "사이트관리"
+        },
+        {
+          "keyword": "시설관리"
+        },
+        {
+          "keyword": "콘텐츠관리"
+        },
+        {
+          "keyword": "경영지원"
+        },
+        {
+          "keyword": "실적관리"
+        },
+        {
+          "keyword": "평가/보상"
+        },
+        {
+          "keyword": "기술영업"
+        },
+        {
+          "keyword": "샵마스터"
+        },
+        {
+          "keyword": "영업관리"
+        },
+        {
+          "keyword": "영업지원"
+        },
+        {
+          "keyword": "영업직"
+        },
+        {
+          "keyword": "영업MD"
+        },
+        {
+          "keyword": "판매직"
+        },
+        {
+          "keyword": "영업마케팅"
+        },
+        {
+          "keyword": "영업전략"
+        },
+        {
+          "keyword": "영업판촉"
+        },
+        {
+          "keyword": "온라인판매"
+        },
+        {
+          "keyword": "잡화판매"
+        },
+        {
+          "keyword": "해외시장개척"
+        },
+        {
+          "keyword": "해외영업"
+        },
+        {
+          "keyword": "화장품영업"
+        },
+        {
+          "keyword": "화장품판매"
+        },
+        {
+          "keyword": "B2B"
+        },
+        {
+          "keyword": "B2C"
+        },
+        {
+          "keyword": "가맹점관리"
+        },
+        {
+          "keyword": "가맹점영업"
+        },
+        {
+          "keyword": "거래처관리"
+        },
+        {
+          "keyword": "거래처납품"
+        },
+        {
+          "keyword": "거래처영업"
+        },
+        {
+          "keyword": "고객관리"
+        },
+        {
+          "keyword": "공공영업"
+        },
+        {
+          "keyword": "기업영업"
+        },
+        {
+          "keyword": "마트영업"
+        },
+        {
+          "keyword": "매장관리"
+        },
+        {
+          "keyword": "매출관리"
+        },
+        {
+          "keyword": "바이어발굴/관리"
+        },
+        {
+          "keyword": "쇼핑몰관리"
+        },
+        {
+          "keyword": "수출입"
+        },
+        {
+          "keyword": "아울렛영업"
+        },
+        {
+          "keyword": "온라인영업"
+        },
+        {
+          "keyword": "유통영업"
+        },
+        {
+          "keyword": "점포개발"
+        },
+        {
+          "keyword": "주문관리"
+        },
+        {
+          "keyword": "진열관리"
+        },
+        {
+          "keyword": "학원영업"
+        },
+        {
+          "keyword": "해외영업관리"
+        },
+        {
+          "keyword": "해외영업지원"
+        },
+        {
+          "keyword": "연구원"
+        },
+        {
+          "keyword": "R&D"
+        },
+        {
+          "keyword": "R&D기획"
+        },
+        {
+          "keyword": "미생물"
+        },
+        {
+          "keyword": "생명과학"
+        },
+        {
+          "keyword": "의료기기연구"
+        },
+        {
+          "keyword": "의약외품연구"
+        },
+        {
+          "keyword": "제약/바이오"
+        },
+        {
+          "keyword": "제형연구"
+        },
+        {
+          "keyword": "매장매니저"
+        },
+        {
+          "keyword": "고객응대"
+        },
+        {
+          "keyword": "기계수리"
+        },
+        {
+          "keyword": "설비점검"
+        },
+        {
+          "keyword": "기계조작원"
+        },
+        {
+          "keyword": "생산관리"
+        },
+        {
+          "keyword": "설비OP"
+        },
+        {
+          "keyword": "조색사"
+        },
+        {
+          "keyword": "품질검사원"
+        },
+        {
+          "keyword": "QC"
+        },
+        {
+          "keyword": "공정엔지니어"
+        },
+        {
+          "keyword": "공정설계"
+        },
+        {
+          "keyword": "제품설계"
+        },
+        {
+          "keyword": "금형설계"
+        },
+        {
+          "keyword": "기계설계"
+        },
+        {
+          "keyword": "기구설계"
+        },
+        {
+          "keyword": "생산설계"
+        },
+        {
+          "keyword": "3D설계"
+        },
+        {
+          "keyword": "그라비아인쇄"
+        },
+        {
+          "keyword": "도장/도금/도색"
+        },
+        {
+          "keyword": "사출금형"
+        },
+        {
+          "keyword": "사출성형"
+        },
+        {
+          "keyword": "실크인쇄"
+        },
+        {
+          "keyword": "충진"
+        },
+        {
+          "keyword": "칭량"
+        },
+        {
+          "keyword": "프레스금형"
+        },
+        {
+          "keyword": "품질분석"
+        },
+        {
+          "keyword": "플라스틱"
+        },
+        {
+          "keyword": "화장품"
+        },
+        {
+          "keyword": "FA(공장자동화)"
+        },
+        {
+          "keyword": "솔리드엣지"
+        },
+        {
+          "keyword": "솔리드웍스"
+        },
+        {
+          "keyword": "AutoCAD"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "OrCAD"
+        },
+        {
+          "keyword": "기획MD"
+        },
+        {
+          "keyword": "리테일MD"
+        },
+        {
+          "keyword": "브랜드MD"
+        },
+        {
+          "keyword": "오프라인MD"
+        },
+        {
+          "keyword": "온라인MD"
+        },
+        {
+          "keyword": "유통MD"
+        },
+        {
+          "keyword": "건강기능식품"
+        },
+        {
+          "keyword": "구매총괄"
+        },
+        {
+          "keyword": "납기관리"
+        },
+        {
+          "keyword": "문구"
+        },
+        {
+          "keyword": "백화점"
+        },
+        {
+          "keyword": "브랜드관리"
+        },
+        {
+          "keyword": "브랜드기획"
+        },
+        {
+          "keyword": "브랜드런칭"
+        },
+        {
+          "keyword": "브랜드확장"
+        },
+        {
+          "keyword": "브랜딩"
+        },
+        {
+          "keyword": "상품관리"
+        },
+        {
+          "keyword": "상품분석"
+        },
+        {
+          "keyword": "생활용품"
+        },
+        {
+          "keyword": "소셜커머스"
+        },
+        {
+          "keyword": "쇼핑몰"
+        },
+        {
+          "keyword": "시장조사"
+        },
+        {
+          "keyword": "오픈마켓"
+        },
+        {
+          "keyword": "완구"
+        },
+        {
+          "keyword": "유아용품"
+        },
+        {
+          "keyword": "이커머스"
+        },
+        {
+          "keyword": "자사몰관리"
+        },
+        {
+          "keyword": "전자제품"
+        },
+        {
+          "keyword": "제작관리"
+        },
+        {
+          "keyword": "채널관리"
+        },
+        {
+          "keyword": "트렌드분석"
+        },
+        {
+          "keyword": "판매전략"
+        },
+        {
+          "keyword": "편집샵"
+        },
+        {
+          "keyword": "프로모션기획"
+        },
+        {
+          "keyword": "회원분석"
+        },
+        {
+          "keyword": "CS관리"
+        },
+        {
+          "keyword": "SNS"
+        },
+        {
+          "keyword": "영상디자이너"
+        },
+        {
+          "keyword": "크리에이터"
+        },
+        {
+          "keyword": "공연예술"
+        },
+        {
+          "keyword": "순수미술"
+        },
+        {
+          "keyword": "영상자막"
+        },
+        {
+          "keyword": "영상제작"
+        },
+        {
+          "keyword": "영상편집"
+        },
+        {
+          "keyword": "촬영"
+        },
+        {
+          "keyword": "병원마케팅"
+        },
+        {
+          "keyword": "마케팅기획"
+        },
+        {
+          "keyword": "마케팅전략"
+        },
+        {
+          "keyword": "블로그마케팅"
+        },
+        {
+          "keyword": "인플루언서마케팅"
+        },
+        {
+          "keyword": "체험마케팅"
+        },
+        {
+          "keyword": "행사기획"
+        },
+        {
+          "keyword": "SNS마케팅"
+        },
+        {
+          "keyword": "콘텐츠기획"
+        },
+        {
+          "keyword": "광고마케팅"
+        },
+        {
+          "keyword": "글로벌마케팅"
+        },
+        {
+          "keyword": "기업홍보"
+        },
+        {
+          "keyword": "디지털마케팅"
+        },
+        {
+          "keyword": "모바일마케팅"
+        },
+        {
+          "keyword": "미디어플래너"
+        },
+        {
+          "keyword": "바이럴마케팅"
+        },
+        {
+          "keyword": "브랜드마케팅"
+        },
+        {
+          "keyword": "비즈니스마케팅"
+        },
+        {
+          "keyword": "오프라인마케팅"
+        },
+        {
+          "keyword": "온라인마케팅"
+        },
+        {
+          "keyword": "제휴마케팅"
+        },
+        {
+          "keyword": "콘텐츠마케팅"
+        },
+        {
+          "keyword": "콘텐츠에디터"
+        },
+        {
+          "keyword": "퍼포먼스마케팅"
+        },
+        {
+          "keyword": "프로덕트마케팅"
+        },
+        {
+          "keyword": "AD(아트디렉터)"
+        },
+        {
+          "keyword": "AE(광고기획자)"
+        },
+        {
+          "keyword": "B2B마케팅"
+        },
+        {
+          "keyword": "BM(브랜드매니저)"
+        },
+        {
+          "keyword": "CD(크리에이티브디렉터)"
+        },
+        {
+          "keyword": "CRM마케팅"
+        },
+        {
+          "keyword": "MW(메디컬라이터)"
+        },
+        {
+          "keyword": "검색광고"
+        },
+        {
+          "keyword": "광고주관리"
+        },
+        {
+          "keyword": "광고캠페인"
+        },
+        {
+          "keyword": "그로스해킹"
+        },
+        {
+          "keyword": "매체관리"
+        },
+        {
+          "keyword": "배너광고"
+        },
+        {
+          "keyword": "비딩"
+        },
+        {
+          "keyword": "사보/뉴스레터"
+        },
+        {
+          "keyword": "사회조사"
+        },
+        {
+          "keyword": "설문조사"
+        },
+        {
+          "keyword": "세일즈프로모션"
+        },
+        {
+          "keyword": "언론홍보"
+        },
+        {
+          "keyword": "옥외광고"
+        },
+        {
+          "keyword": "이벤트프로모션"
+        },
+        {
+          "keyword": "키워드광고"
+        },
+        {
+          "keyword": "통계/분석"
+        },
+        {
+          "keyword": "퍼블리시티"
+        },
+        {
+          "keyword": "ATL"
+        },
+        {
+          "keyword": "BTL"
+        },
+        {
+          "keyword": "IMC"
+        },
+        {
+          "keyword": "MCN"
+        },
+        {
+          "keyword": "MICE"
+        },
+        {
+          "keyword": "RFP(제안요청서)"
+        },
+        {
+          "keyword": "SEO"
+        },
+        {
+          "keyword": "공예디자인"
+        },
+        {
+          "keyword": "광고디자인"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "디지털디자인"
+        },
+        {
+          "keyword": "모바일디자인"
+        },
+        {
+          "keyword": "문구디자인"
+        },
+        {
+          "keyword": "배너디자인"
+        },
+        {
+          "keyword": "브랜드디자인"
+        },
+        {
+          "keyword": "산업디자인"
+        },
+        {
+          "keyword": "시각디자인"
+        },
+        {
+          "keyword": "앱디자인"
+        },
+        {
+          "keyword": "영상디자인"
+        },
+        {
+          "keyword": "완구디자인"
+        },
+        {
+          "keyword": "일러스트레이터"
+        },
+        {
+          "keyword": "잡화디자인"
+        },
+        {
+          "keyword": "정보디자인"
+        },
+        {
+          "keyword": "캐릭터디자인"
+        },
+        {
+          "keyword": "컨셉디자인"
+        },
+        {
+          "keyword": "콘텐츠디자인"
+        },
+        {
+          "keyword": "패키지디자인"
+        },
+        {
+          "keyword": "편집디자인"
+        },
+        {
+          "keyword": "폰트디자인"
+        },
+        {
+          "keyword": "표지디자인"
+        },
+        {
+          "keyword": "CI디자인"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "3D디자인"
+        },
+        {
+          "keyword": "모션그래픽"
+        },
+        {
+          "keyword": "브로슈어"
+        },
+        {
+          "keyword": "인포그래픽"
+        },
+        {
+          "keyword": "제안서"
+        },
+        {
+          "keyword": "채색"
+        },
+        {
+          "keyword": "카드뉴스"
+        },
+        {
+          "keyword": "카탈로그"
+        },
+        {
+          "keyword": "컨셉아트"
+        },
+        {
+          "keyword": "타이포그래피"
+        },
+        {
+          "keyword": "템플릿"
+        },
+        {
+          "keyword": "팜플렛"
+        },
+        {
+          "keyword": "홍보물"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "드림위버"
+        },
+        {
+          "keyword": "라이노"
+        },
+        {
+          "keyword": "스케치업"
+        },
+        {
+          "keyword": "애프터이펙트"
+        },
+        {
+          "keyword": "인디자인"
+        },
+        {
+          "keyword": "일러스트"
+        },
+        {
+          "keyword": "파이널컷"
+        },
+        {
+          "keyword": "프리미어"
+        },
+        {
+          "keyword": "플래시"
+        },
+        {
+          "keyword": "Keyshot"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "QuarkXpress"
+        },
+        {
+          "keyword": "Sketch"
+        },
+        {
+          "keyword": "경영기획"
+        },
+        {
+          "keyword": "교육기획"
+        },
+        {
+          "keyword": "사업기획"
+        },
+        {
+          "keyword": "상품기획"
+        },
+        {
+          "keyword": "서비스기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "전략기획"
+        },
+        {
+          "keyword": "PL(프로젝트리더)"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "PO(프로덕트오너)"
+        },
+        {
+          "keyword": "경영분석"
+        },
+        {
+          "keyword": "경영컨설팅"
+        },
+        {
+          "keyword": "경영혁신(PI)"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "사업개발"
+        },
+        {
+          "keyword": "사업관리"
+        },
+        {
+          "keyword": "사업제휴"
+        },
+        {
+          "keyword": "스토리보드"
+        },
+        {
+          "keyword": "신사업기획"
+        },
+        {
+          "keyword": "신사업발굴"
+        },
+        {
+          "keyword": "지속가능경영"
+        },
+        {
+          "keyword": "타당성검토"
+        },
+        {
+          "keyword": "해외법인관리"
+        },
+        {
+          "keyword": "UI/UX"
+        },
+        {
+          "keyword": "구매관리"
+        },
+        {
+          "keyword": "물류관리"
+        },
+        {
+          "keyword": "물류사무원"
+        },
+        {
+          "keyword": "자재관리"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "창고관리"
+        },
+        {
+          "keyword": "구매기획"
+        },
+        {
+          "keyword": "국제물류"
+        },
+        {
+          "keyword": "물류기획"
+        },
+        {
+          "keyword": "유통관리"
+        },
+        {
+          "keyword": "SRM"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "개발구매"
+        },
+        {
+          "keyword": "구매대행/소싱"
+        },
+        {
+          "keyword": "수/발주"
+        },
+        {
+          "keyword": "수급관리"
+        },
+        {
+          "keyword": "수불관리"
+        },
+        {
+          "keyword": "양산구매"
+        },
+        {
+          "keyword": "외자구매"
+        },
+        {
+          "keyword": "외주관리"
+        },
+        {
+          "keyword": "입고/입하"
+        },
+        {
+          "keyword": "출고/출하"
+        },
+        {
+          "keyword": "패킹(포장)"
+        },
+        {
+          "keyword": "공부방교사"
+        },
+        {
+          "keyword": "교육컨설턴트"
+        },
+        {
+          "keyword": "보육교사"
+        },
+        {
+          "keyword": "학원강사"
+        },
+        {
+          "keyword": "교수설계"
+        },
+        {
+          "keyword": "교육운영"
+        },
+        {
+          "keyword": "교육컨텐츠개발"
+        },
+        {
+          "keyword": "교육컨텐츠기획"
+        },
+        {
+          "keyword": "교재개발"
+        },
+        {
+          "keyword": "방과후교사"
+        },
+        {
+          "keyword": "교구수업"
+        },
+        {
+          "keyword": "영어교재"
+        },
+        {
+          "keyword": "온라인교육"
+        },
+        {
+          "keyword": "유아교육"
+        },
+        {
+          "keyword": "이러닝"
+        },
+        {
+          "keyword": "쿠킹클래스"
+        },
+        {
+          "keyword": "학원생관리"
+        },
+        {
+          "keyword": "방과후학교"
+        },
+        {
+          "keyword": "초등학교"
+        },
+        {
+          "keyword": "디자인"
+        },
+        {
+          "keyword": "미술"
+        },
+        {
+          "keyword": "미술치료"
+        },
+        {
+          "keyword": "상담원"
+        },
+        {
+          "keyword": "아웃바운드"
+        },
+        {
+          "keyword": "인바운드"
+        },
+        {
+          "keyword": "CS"
+        },
+        {
+          "keyword": "게시판관리"
+        },
+        {
+          "keyword": "교육상담"
+        },
+        {
+          "keyword": "단순안내"
+        },
+        {
+          "keyword": "메일상담"
+        },
+        {
+          "keyword": "전화상담"
+        },
+        {
+          "keyword": "접수/예약"
+        },
+        {
+          "keyword": "주문상담"
+        },
+        {
+          "keyword": "채팅상담"
+        },
+        {
+          "keyword": "콜센터/고객센터"
+        },
+        {
+          "keyword": "콜통계/분석"
+        },
+        {
+          "keyword": "통화품질분석"
+        },
+        {
+          "keyword": "해피콜"
+        },
+        {
+          "keyword": "VOC분석"
+        },
+        {
+          "keyword": "가스기능사"
+        },
+        {
+          "keyword": "공무"
+        },
+        {
+          "keyword": "공조냉동기사"
+        },
+        {
+          "keyword": "기계기사"
+        },
+        {
+          "keyword": "보일러기사"
+        },
+        {
+          "keyword": "전기기사"
+        },
+        {
+          "keyword": "가스설비"
+        },
+        {
+          "keyword": "건조설비"
+        },
+        {
+          "keyword": "건축설비"
+        },
+        {
+          "keyword": "공조설비"
+        },
+        {
+          "keyword": "반송설비"
+        },
+        {
+          "keyword": "산업설비"
+        },
+        {
+          "keyword": "설비보수"
+        },
+        {
+          "keyword": "위생설비"
+        },
+        {
+          "keyword": "전기설비"
+        },
+        {
+          "keyword": "플랜트설비"
+        },
+        {
+          "keyword": "에너지관리"
+        },
+        {
+          "keyword": "품질관리"
+        },
+        {
+          "keyword": "생산"
+        },
+        {
+          "keyword": "회계"
+        },
+        {
+          "keyword": "포장"
+        },
+        {
+          "keyword": "생산기술"
+        },
+        {
+          "keyword": "마케팅"
+        },
+        {
+          "keyword": "영업"
+        },
+        {
+          "keyword": "품질보증"
+        },
+        {
+          "keyword": "영업기획"
+        },
+        {
+          "keyword": "홍보"
+        },
+        {
+          "keyword": "공정관리"
+        },
+        {
+          "keyword": "경영관리"
+        },
+        {
+          "keyword": "구매"
+        },
+        {
+          "keyword": "보안관제"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "감사"
+        },
+        {
+          "keyword": "인사"
+        },
+        {
+          "keyword": "리빙"
+        },
+        {
+          "keyword": "영어"
+        },
+        {
+          "keyword": "기획"
+        },
+        {
+          "keyword": "대학교"
+        },
+        {
+          "keyword": "안전관리자"
+        }
+      ],
+      "field": "유통·무역·상사",
+      "companyName": "(주)모나미",
+      "careerMin": 0,
+      "id": 43710848,
+      "position": "(주)모나미 각 부문별 경력•신입사원 모집"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "미디어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "Nginx"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kafka"
+        },
+        {
+          "keyword": "Kotlin"
+        },
+        {
+          "keyword": "MySQL"
+        },
+        {
+          "keyword": "Redis"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "Tomcat"
+        }
+      ],
+      "field": "방송사·케이블",
+      "companyName": "네이버웹툰컴퍼니(주)",
+      "careerMin": 0,
+      "id": 43710232,
+      "position": "[경력] 글로벌 웹툰 서비스 개발자(Back-End)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "미디어"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Kotlin"
+        }
+      ],
+      "field": "방송사·케이블",
+      "companyName": "네이버웹툰컴퍼니(주)",
+      "careerMin": 0,
+      "id": 43710184,
+      "position": "[경력] 글로벌 웹툰 서비스 개발자(안드로이드 앱)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "방송장비"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "Swift"
+        }
+      ],
+      "field": "방송사·케이블",
+      "companyName": "네이버웹툰컴퍼니(주)",
+      "careerMin": 3,
+      "id": 43710131,
+      "position": "[경력] 글로벌 웹툰 서비스 개발자(iOS 앱)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "이커머스"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "WMS"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)파스토",
+      "careerMin": 0,
+      "id": 43709111,
+      "position": "SCM 기획"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "ETL"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Docker"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "Jenkins"
+        },
+        {
+          "keyword": "Keras"
+        },
+        {
+          "keyword": "Pytorch"
+        },
+        {
+          "keyword": "Tensorflow"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)파스토",
+      "careerMin": 0,
+      "id": 43709038,
+      "position": "AI Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SAP"
+        },
+        {
+          "keyword": "ABAP"
+        },
+        {
+          "keyword": "Excel"
+        },
+        {
+          "keyword": "PowerPoint"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "롯데정보통신(주)",
+      "careerMin": 0,
+      "id": 43708799,
+      "position": "2022년 8월 IT 컨설팅/SAP ABAP 신입사원 채용 인턴전형"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "전략기획"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "KPI관리"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)파스토",
+      "careerMin": 0,
+      "id": 43708613,
+      "position": "Data Analyst"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "컨텐츠제공"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)야놀자",
+      "careerMin": 0,
+      "id": 43708516,
+      "position": "Software Engineering Intern"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기능학원"
+        },
+        {
+          "keyword": "SaaS"
+        },
+        {
+          "keyword": "B2B"
+        },
+        {
+          "keyword": "KPI관리"
+        },
+        {
+          "keyword": "마케팅"
+        }
+      ],
+      "field": "전문·기능학원",
+      "companyName": "데이원컴퍼니(주)",
+      "careerMin": 0,
+      "id": 43707782,
+      "position": "[패스트캠퍼스] [전환형 인턴] 사업개발(B2B영업) 매니저"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "Kubernetes"
+        },
+        {
+          "keyword": "Python"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)아우름플래닛",
+      "careerMin": 0,
+      "id": 43707700,
+      "position": "MLOps Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "CSS"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "HTML"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "ReactJS"
+        },
+        {
+          "keyword": "RestAPI"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)아우름플래닛",
+      "careerMin": 0,
+      "id": 43707513,
+      "position": "Software Engineer - Frontend"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "Docker"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "SpringBoot"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "아이피엑스(주)",
+      "careerMin": 0,
+      "id": 43707107,
+      "position": "Backend Server Engineer (Common Platform)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "Django"
+        },
+        {
+          "keyword": "GCP"
+        },
+        {
+          "keyword": "Spring"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)레몬베이스",
+      "careerMin": 3,
+      "id": 43707055,
+      "position": "Backend Software Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "API"
+        },
+        {
+          "keyword": "SDK"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Azure"
+        },
+        {
+          "keyword": "Docker"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "아이피엑스(주)",
+      "careerMin": 0,
+      "id": 43707033,
+      "position": "FRENZ (IP Platform) Backend Server Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "자율주행"
+        },
+        {
+          "keyword": "기술엔지니어"
+        },
+        {
+          "keyword": "설계엔지니어"
+        },
+        {
+          "keyword": "기술설계"
+        },
+        {
+          "keyword": "설계보조"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)니어스랩",
+      "careerMin": 0,
+      "id": 43706917,
+      "position": "자율 비행 드론 시스템 엔지니어"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Spring"
+        },
+        {
+          "keyword": "SpringBoot"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "라인플러스(주)",
+      "careerMin": 3,
+      "id": 43706842,
+      "position": "LIVE & Group Service Backend Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "S/W"
+        },
+        {
+          "keyword": "SDK"
+        },
+        {
+          "keyword": "C++"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)니어스랩",
+      "careerMin": 0,
+      "id": 43706829,
+      "position": "자율 비행 드론 시스템 소프트웨어 엔지니어"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "솔루션"
+        },
+        {
+          "keyword": "인프라"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "IaaS"
+        },
+        {
+          "keyword": "PaaS"
+        },
+        {
+          "keyword": "문서작성"
+        },
+        {
+          "keyword": "PM(프로젝트매니저)"
+        },
+        {
+          "keyword": "트렌드분석"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "라인플러스(주)",
+      "careerMin": 3,
+      "id": 43706788,
+      "position": "Infra Technical Project Manager"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "기타제조업"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "S/W"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "전략기획"
+        }
+      ],
+      "field": "기타제조업",
+      "companyName": "(주)니어스랩",
+      "careerMin": 0,
+      "id": 43706748,
+      "position": "기술전략 매니저"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "인터넷금융"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "Spark"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "포털·인터넷·컨텐츠",
+      "companyName": "(주)핀다",
+      "careerMin": 0,
+      "id": 43706565,
+      "position": "데이터 사이언티스트"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "Android"
+        },
+        {
+          "keyword": "iOS"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "모바일디자인"
+        },
+        {
+          "keyword": "웹디자인"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "GUI"
+        },
+        {
+          "keyword": "Figma"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)매스프레소",
+      "careerMin": 0,
+      "id": 43706496,
+      "position": "Product Designer (UX/UI)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "QA/테스터"
+        },
+        {
+          "keyword": "API"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)아임포트",
+      "careerMin": 0,
+      "id": 43706401,
+      "position": "QA Engineer (주니어)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "네트워크"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Linux"
+        },
+        {
+          "keyword": "MySQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)매스프레소",
+      "careerMin": 0,
+      "id": 43706384,
+      "position": "[신입] DBA (Database Administrator)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "데이터분석가"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "클라우드"
+        },
+        {
+          "keyword": "AWS"
+        },
+        {
+          "keyword": "Kubernetes"
+        },
+        {
+          "keyword": "SQL"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)매스프레소",
+      "careerMin": 0,
+      "id": 43706274,
+      "position": "Data Engineer"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "엔터테인먼트"
+        },
+        {
+          "keyword": "음반기획사"
+        },
+        {
+          "keyword": "MacOS"
+        },
+        {
+          "keyword": "그래픽디자인"
+        },
+        {
+          "keyword": "디지털디자인"
+        },
+        {
+          "keyword": "영상디자인"
+        },
+        {
+          "keyword": "프로모션디자인"
+        },
+        {
+          "keyword": "아트워크"
+        },
+        {
+          "keyword": "PhotoShop"
+        }
+      ],
+      "field": "연예·엔터테인먼트,영화·배급·음악",
+      "companyName": "(주)와이지엔터테인먼트",
+      "careerMin": 0,
+      "id": 43705979,
+      "position": "[YGX] 콘텐츠 제작팀(신입) 그래픽 디자인 담당자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "게임개발"
+        },
+        {
+          "keyword": "GM(게임운영)"
+        },
+        {
+          "keyword": "C#"
+        },
+        {
+          "keyword": "Unity"
+        },
+        {
+          "keyword": "3D디자인"
+        },
+        {
+          "keyword": "3DMax"
+        },
+        {
+          "keyword": "게임기획"
+        },
+        {
+          "keyword": "앱기획"
+        },
+        {
+          "keyword": "웹기획"
+        },
+        {
+          "keyword": "기획"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "슈퍼센트",
+      "careerMin": 0,
+      "id": 43705756,
+      "position": "게임 클라이언트 개발자"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "소프트웨어개발"
+        },
+        {
+          "keyword": "DevOps"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Git"
+        },
+        {
+          "keyword": "Java"
+        },
+        {
+          "keyword": "Jenkins"
+        },
+        {
+          "keyword": "Maven"
+        },
+        {
+          "keyword": "SVN"
+        }
+      ],
+      "field": "솔루션·SI·ERP·CRM",
+      "companyName": "(주)티맥스소프트",
+      "careerMin": 0,
+      "id": 43705699,
+      "position": "DevOps 엔지니어"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "UI/UX디자인"
+        },
+        {
+          "keyword": "리서치"
+        },
+        {
+          "keyword": "데이터분석"
+        },
+        {
+          "keyword": "UI/UX"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 8,
+      "id": 43699794,
+      "position": "22년(하) 개발실 경력사원 채용 공고(UX 리서치)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "관광"
+        },
+        {
+          "keyword": "콘도"
+        },
+        {
+          "keyword": "호텔"
+        },
+        {
+          "keyword": "기술지원"
+        },
+        {
+          "keyword": "백엔드/서버개발"
+        },
+        {
+          "keyword": "보안컨설팅"
+        },
+        {
+          "keyword": "앱개발"
+        },
+        {
+          "keyword": "웹개발"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보보안"
+        },
+        {
+          "keyword": "퍼블리셔"
+        },
+        {
+          "keyword": "프론트엔드"
+        },
+        {
+          "keyword": "CISO"
+        },
+        {
+          "keyword": "CPO"
+        },
+        {
+          "keyword": "DBA"
+        },
+        {
+          "keyword": "SE(시스템엔지니어)"
+        },
+        {
+          "keyword": "데이터시각화"
+        },
+        {
+          "keyword": "이미지프로세싱"
+        },
+        {
+          "keyword": "ERP"
+        },
+        {
+          "keyword": "H/W"
+        },
+        {
+          "keyword": "IDC"
+        },
+        {
+          "keyword": "IIS"
+        },
+        {
+          "keyword": "IoT"
+        },
+        {
+          "keyword": "ISMS"
+        },
+        {
+          "keyword": "SDK"
+        },
+        {
+          "keyword": "SOA"
+        },
+        {
+          "keyword": "STT"
+        },
+        {
+          "keyword": "TTS"
+        },
+        {
+          "keyword": "OracleDB"
+        },
+        {
+          "keyword": "PL/SQL"
+        },
+        {
+          "keyword": "PostgreSQL"
+        },
+        {
+          "keyword": "Python"
+        },
+        {
+          "keyword": "R"
+        },
+        {
+          "keyword": "Unity"
+        },
+        {
+          "keyword": "VB.NET"
+        },
+        {
+          "keyword": "Verilog"
+        },
+        {
+          "keyword": "Vert.x"
+        },
+        {
+          "keyword": "VisualBasic"
+        },
+        {
+          "keyword": "VisualC·C++"
+        },
+        {
+          "keyword": "자산관리"
+        },
+        {
+          "keyword": "급여(Payroll)"
+        },
+        {
+          "keyword": "실적관리"
+        },
+        {
+          "keyword": "인사교육"
+        },
+        {
+          "keyword": "평가/보상"
+        },
+        {
+          "keyword": "브랜드마케팅"
+        },
+        {
+          "keyword": "공간디자인"
+        },
+        {
+          "keyword": "경영기획"
+        },
+        {
+          "keyword": "브랜드기획"
+        },
+        {
+          "keyword": "구매관리"
+        },
+        {
+          "keyword": "재고관리"
+        },
+        {
+          "keyword": "구매기획"
+        },
+        {
+          "keyword": "안전관리자"
+        },
+        {
+          "keyword": "안전보건관리자"
+        },
+        {
+          "keyword": "경영관리"
+        },
+        {
+          "keyword": "구매"
+        },
+        {
+          "keyword": "풀스택"
+        },
+        {
+          "keyword": "모의해킹"
+        },
+        {
+          "keyword": "HTML5"
+        },
+        {
+          "keyword": "Javascript"
+        },
+        {
+          "keyword": "전산회계"
+        },
+        {
+          "keyword": "기업회계"
+        },
+        {
+          "keyword": "PhotoShop"
+        },
+        {
+          "keyword": "HRM"
+        },
+        {
+          "keyword": "드로잉"
+        },
+        {
+          "keyword": "인테리어"
+        },
+        {
+          "keyword": "CAD"
+        },
+        {
+          "keyword": "기획"
+        },
+        {
+          "keyword": "조직관리"
+        },
+        {
+          "keyword": "보건관리자"
+        },
+        {
+          "keyword": "건축설계"
+        }
+      ],
+      "field": "호텔·여행·항공",
+      "companyName": "(주)소노인터내셔널",
+      "careerMin": 0,
+      "id": 43699425,
+      "position": "[대명소노그룹] 각 부문별 신입/경력 인재채용"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "알고리즘"
+        },
+        {
+          "keyword": "음성인식"
+        },
+        {
+          "keyword": "AI(인공지능)"
+        },
+        {
+          "keyword": "C++"
+        },
+        {
+          "keyword": "C언어"
+        },
+        {
+          "keyword": "Python"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 5,
+      "id": 43699392,
+      "position": "22년(하) 개발실 경력사원 채용 공고 (AI 음성처리)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "IT컨설팅"
+        },
+        {
+          "keyword": "SCM"
+        },
+        {
+          "keyword": "데이터엔지니어"
+        },
+        {
+          "keyword": "데이터라벨링"
+        },
+        {
+          "keyword": "모델링"
+        },
+        {
+          "keyword": "빅데이터"
+        },
+        {
+          "keyword": "DBMS"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "ISP"
+        }
+      ],
+      "field": "IT컨설팅",
+      "companyName": "삼성에스디에스(주)",
+      "careerMin": 6,
+      "id": 43699274,
+      "position": "22년(하) 개발실 경력사원 채용 공고 (데이터아키텍트)"
+    },
+    {
+      "keywordList": [
+        {
+          "keyword": "공공기관"
+        },
+        {
+          "keyword": "유지보수"
+        },
+        {
+          "keyword": "정보통신"
+        },
+        {
+          "keyword": "아키텍쳐"
+        },
+        {
+          "keyword": "SQL"
+        },
+        {
+          "keyword": "기업영업"
+        },
+        {
+          "keyword": "여신심사"
+        }
+      ],
+      "field": "정부·공공기관·공기업",
+      "companyName": "기술보증기금",
+      "careerMin": 0,
+      "id": 43697768,
+      "position": "2022년 정규직 신입직원 채용공고"
+    }
+  ]
+}
