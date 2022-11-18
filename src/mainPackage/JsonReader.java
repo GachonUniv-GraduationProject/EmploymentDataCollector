@@ -5,6 +5,7 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
+import javax.swing.*;
 import java.io.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -14,6 +15,8 @@ import java.util.List;
 public class JsonReader {
     private final String excludePath = "data/exclude_list.json";
     private final String resultPath = "data/result_list.json";
+
+    public static JSONObject jobPostJsonOutput = null;
 
     // Read json data from json file of asset directory
     private String getJsonString() {
@@ -132,7 +135,25 @@ public class JsonReader {
         System.out.println(finalObject);
     }
 
-    public void writeJobPostOutput(ArrayList<JobPost> jobPostArrayList) {
+    public void writeJobPostOutput(ArrayList<JobPost> jobPostArrayList, JPanel panel) {
+        if(jobPostJsonOutput != null) {
+            try {
+                FileWriter file = new FileWriter(resultPath);
+                file.write(jobPostJsonOutput.toJSONString());
+                file.flush();
+                file.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            //System.out.println(jobPostJsonOutput);
+        }
+        else {
+            JOptionPane.showMessageDialog(panel, "Filter data first.", "Message", JOptionPane.ERROR_MESSAGE);
+        }
+    }
+
+    public void makeJobPostJson(ArrayList<JobPost> jobPostArrayList) {
         JSONArray jsonArray = new JSONArray();
         for(JobPost post : jobPostArrayList) {
             JSONObject newObj = new JSONObject();
@@ -155,15 +176,6 @@ public class JsonReader {
         JSONObject finalObject = new JSONObject();
         finalObject.put("jobPosts", jsonArray);
 
-        try {
-            FileWriter file = new FileWriter(resultPath);
-            file.write(finalObject.toJSONString());
-            file.flush();
-            file.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        System.out.println(finalObject);
+        jobPostJsonOutput = finalObject;
     }
 }

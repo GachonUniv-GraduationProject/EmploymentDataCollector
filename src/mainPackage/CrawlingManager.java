@@ -1,9 +1,15 @@
 package mainPackage;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import org.json.simple.JSONObject;
+
 import javax.swing.*;
+import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.beans.Visibility;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
@@ -17,7 +23,7 @@ public class CrawlingManager {
     private Frame mainFrame;
     private Panel mainPanel;
 
-    private JPanel urlPanel;
+    private JPanel collectPanel;
     private JPanel keywordPanel;
     private JCheckBox[] keywordCheckboxes;
 
@@ -45,7 +51,7 @@ public class CrawlingManager {
 
         extractKeywordsFromJobPosts();
 
-        drawURL();
+        drawCollect();
         drawKeywords();
         drawResult();
     }
@@ -90,16 +96,45 @@ public class CrawlingManager {
         return false;
     }
 
-    private void drawURL()
+    private void drawCollect()
     {
-        urlPanel = new JPanel();
-        urlPanel.setBounds(0, 0, 640, 120);
-        urlPanel.setBackground(new Color(150, 150, 150));
-        urlPanel.setBorder(BorderFactory.createEmptyBorder(30, 20, 20, 20));
-        JLabel urlLabel = new JLabel("URL");
-        JTextField urlText = new JTextField("Enter URL...", 50);
+        collectPanel = new JPanel();
+        collectPanel.setBounds(0, 0, 480, 100);
+        collectPanel.setBackground(new Color(120, 152, 255));
+        collectPanel.setBorder(BorderFactory.createEmptyBorder(30, 20, 20, 20));
+        collectPanel.setLayout(null);
 
-        JButton collectButton = new JButton("Collect data");
+        JLabel startIndexLabel = new JLabel("start index");
+        startIndexLabel.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        startIndexLabel.setForeground(Color.white);
+        startIndexLabel.setBounds(35, 20, 100, 20);
+
+        JLabel countLabel = new JLabel("count");
+        countLabel.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        countLabel.setBounds(215, 20, 45, 20);
+        countLabel.setForeground(Color.white);
+
+        JTextField startIndexText = new JTextField("0", 5);
+        startIndexText.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        startIndexText.setBounds(35, 55, 100, 25);
+        startIndexText.setForeground(Color.black);
+
+        JTextField countText = new JTextField("100", 5);
+        countText.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        countText.setBounds(190, 55, 100, 25);
+        countText.setForeground(Color.black);
+
+        ImageIcon collectImg = new ImageIcon("./res/collect_button.png");
+        ImageIcon collectPressedImg = new ImageIcon("./res/collect_button_pressed.png");
+
+        JButton collectButton = new JButton(collectImg);
+        collectButton.setPressedIcon(collectPressedImg);
+        collectButton.setContentAreaFilled(false);
+        collectButton.setBorderPainted(false);
+        collectButton.setFocusPainted(false);
+        collectButton.setOpaque(false);
+        collectButton.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        collectButton.setBounds(330, 33, 110, 45);
         collectButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -107,59 +142,82 @@ public class CrawlingManager {
             }
         });
 
-        urlPanel.add(urlLabel);
-        urlPanel.add(urlText);
-        urlPanel.add(collectButton);
+        collectPanel.add(startIndexLabel);
+        collectPanel.add(countLabel);
+        collectPanel.add(startIndexText);
+        collectPanel.add(countText);
+        collectPanel.add(collectButton);
 
-        mainPanel.add(urlPanel);
+        mainPanel.add(collectPanel);
     }
 
     private void drawKeywords()
     {
         keywordPanel = new JPanel();
-        keywordPanel.setBounds(0, 120, 640, 525);
-        keywordPanel.setBackground(new Color(255, 255, 255));
+        keywordPanel.setBounds(0, 100, 480, 545);
+        keywordPanel.setBackground(new Color(235, 241, 251));
 
         int len = keywords.size();
         keywordCheckboxes = new JCheckBox[len];
         collectedKeywords = new String[len];
 
+        keywordPanel.setLayout(null);
+
+        ImageIcon checkboxUncheckedImg = new ImageIcon("./res/checkbox_unchecked.png");
+        ImageIcon checkboxCheckedImg = new ImageIcon("./res/checkbox_checked.png");
+
         Box box = Box.createVerticalBox();
+        box.setBackground(new Color(235, 241, 251));
         for(int i = 0; i < len; i++)
         {
-            collectedKeywords[i] = keywords.get(i).getKeyword() + String.format("(%d)", keywords.get(i).getCount());
+            collectedKeywords[i] = keywords.get(i).getKeyword() + String.format(" (x%d)", keywords.get(i).getCount());
             keywordCheckboxes[i] = new JCheckBox(collectedKeywords[i]);
+            keywordCheckboxes[i].setOpaque(false);
+            keywordCheckboxes[i].setIcon(checkboxUncheckedImg);
+            keywordCheckboxes[i].setSelectedIcon(checkboxCheckedImg);
+            keywordCheckboxes[i].setFont(new Font("D2Coding", Font.PLAIN, 15));
+            keywordCheckboxes[i].setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
             box.add(keywordCheckboxes[i]);
         }
 
         JScrollPane selectScrollPane = new JScrollPane(box);
-        selectScrollPane.setBounds(0, 120, 640, 525);
+        selectScrollPane.setBounds(0, 100, 480, 545);
+        selectScrollPane.getViewport().setBackground(new Color(235, 241, 251));
         selectScrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
         selectScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
-        selectScrollPane.getViewport().getView().setBackground(Color.white);
         selectScrollPane.getVerticalScrollBar().setUnitIncrement(16);
-        selectScrollPane.setOpaque(false);
 
-        JPanel keywordBottomPanel = new JPanel();
-        keywordBottomPanel.setBackground(new Color(225,225,225));
-        keywordBottomPanel.setBounds(0, 645, 640, 75);
-        JButton selectButton = new JButton("Select");
-        selectButton.addActionListener(new ActionListener() {
+        ImageIcon filterButtonImg = new ImageIcon("./res/filter_button.png");
+        ImageIcon filterButtonPressedImg = new ImageIcon("./res/filter_button_pressed.png");
+
+        JPanel filterButtonPanel = new JPanel();
+        filterButtonPanel.setBounds(0, 645, 480, 75);
+        filterButtonPanel.setBackground(new Color(235, 241, 251));
+
+
+        JButton filterButton = new JButton(filterButtonImg);
+        filterButton.setPressedIcon(filterButtonPressedImg);
+        filterButton.setContentAreaFilled(false);
+        filterButton.setBorderPainted(false);
+        filterButton.setFocusPainted(false);
+        filterButton.setOpaque(false);
+        filterButton.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        filterButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 excludedKeywords.addAll(getCheckedKeywords());
                 jsonReader.writeExcludeList(excludedKeywords);
                 filterRemoveKeywords(excludedKeywords);
+                jsonReader.makeJobPostJson(jobPostList);
                 showJobPosts();
             }
         });
-        keywordBottomPanel.add(selectButton);
 
         selectScrollPane.getViewport().revalidate();
         selectScrollPane.getViewport().repaint();
-
+        filterButtonPanel.add(filterButton);
+        mainPanel.add(filterButtonPanel);
         mainPanel.add(selectScrollPane);
-        mainPanel.add(keywordBottomPanel);
     }
 
     private ArrayList<Keyword> getCheckedKeywords() {
@@ -174,36 +232,63 @@ public class CrawlingManager {
     private void drawResult()
     {
         resultPanel = new JPanel();
-        resultPanel.setBounds(640, 0, 640, 645);
+        resultPanel.setBounds(480, 50, 800, 595);
         resultPanel.setLayout(new BoxLayout(resultPanel, BoxLayout.Y_AXIS));
-        resultPanel.setBorder(BorderFactory.createEmptyBorder(20, 20, 20 ,20));
+        resultPanel.setBorder(BorderFactory.createEmptyBorder(00, 0, 0 ,5));
+        resultPanel.setBackground(new Color(98, 100, 112));
 
-        JPanel exportPanel = new JPanel();
-        exportPanel.setBounds(640, 645, 640, 75);
+        JPanel exportPanel = new JPanel(null);
+        exportPanel.setBounds(480, 0, 800, 50);
+        exportPanel.setBackground(new Color(145, 148, 158));
+
+        JLabel fileNameLabel = new JLabel("export.json");
+        fileNameLabel.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        fileNameLabel.setBounds(0, 0, 175, 50);
+        fileNameLabel.setForeground(Color.white);
+        fileNameLabel.setBackground(new Color(98, 100, 112));
+        fileNameLabel.setHorizontalAlignment(JLabel.CENTER);
+        fileNameLabel.setOpaque(true);
+        exportPanel.add(fileNameLabel);
 
         resultBox = Box.createVerticalBox();
 
         JScrollPane scrollPane = new JScrollPane(resultBox);
-        scrollPane.setBounds(0, 120, 640, 525);
+        scrollPane.setBorder(new EmptyBorder(0, 0, 0, 0));
+        scrollPane.setBounds(0, 50, 800, 595);
+        scrollPane.getViewport().setBackground(new Color(98, 100, 112));
         scrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
-        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+        scrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
         scrollPane.getViewport().getView().setBackground(Color.white);
         scrollPane.getVerticalScrollBar().setUnitIncrement(16);
         scrollPane.setOpaque(false);
 
         resultPanel.add(scrollPane);
 
-        JButton exportButton = new JButton("Export");
+        JPanel exportButtonPanel = new JPanel();
+        exportButtonPanel.setBounds(480, 645, 800, 75);
+        exportButtonPanel.setBackground(new Color(145, 148, 158));
+
+        ImageIcon exportButtonImg = new ImageIcon("./res/export_button.png");
+        ImageIcon exportButtonPressedImg = new ImageIcon("./res/export_button_pressed.png");
+
+        JButton exportButton = new JButton(exportButtonImg);
+        exportButton.setPressedIcon(exportButtonPressedImg);
+        exportButton.setContentAreaFilled(false);
+        exportButton.setBorderPainted(false);
+        exportButton.setFocusPainted(false);
+        exportButton.setOpaque(false);
+        exportButton.setFont(new Font("D2Coding", Font.PLAIN, 18));
         exportButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                jsonReader.writeJobPostOutput(jobPostList);
+                jsonReader.writeJobPostOutput(jobPostList, resultPanel);
             }
         });
-        exportPanel.add(exportButton);
 
-        mainPanel.add(resultPanel);
+        exportButtonPanel.add(exportButton);
+        mainPanel.add(exportButtonPanel);
         mainPanel.add(exportPanel);
+        mainPanel.add(resultPanel);
 
         //getDataFromSaramin();
     }
@@ -260,28 +345,15 @@ public class CrawlingManager {
     }
 
     private void showJobPosts() {
-        int companyAmount = jobPostList.size();
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String json = gson.toJson(JsonReader.jobPostJsonOutput);
+        json = "<html><pre style='font: Consolas;'>" + json + "</pre></html>";
+        System.out.println(json);
 
-        JLabel[] companySpecificDataText = new JLabel[companyAmount];
-        for(int i = 0; i < companyAmount; i++)
-        {
-            JobPost post = jobPostList.get(i);
-            String jobPostStr = String.format("%s (%s): ", post.getCompanyName(), post.getPosition());
-            companySpecificDataText[i] = new JLabel();
-            companySpecificDataText[i].setFont(new Font("D2Coding", Font.PLAIN, 12));
-
-            List<String> keywordList = post.getKeywords();
-            for(int j = 0; j < keywordList.size(); j++)
-            {
-                if(j == 0)
-                    jobPostStr += keywordList.get(j);
-                else
-                    jobPostStr += ", " + keywordList.get(j);
-            }
-            companySpecificDataText[i].setText(jobPostStr);
-
-            resultBox.add(companySpecificDataText[i]);
-        }
+        JLabel jsonLabel = new JLabel(json);
+        jsonLabel.setFont(new Font("D2Coding", Font.PLAIN, 15));
+        jsonLabel.setForeground(Color.white);
+        resultBox.add(jsonLabel);
         resultBox.revalidate();
         resultBox.repaint();
     }

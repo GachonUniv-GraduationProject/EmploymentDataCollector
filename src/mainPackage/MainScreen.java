@@ -13,7 +13,7 @@ public class MainScreen {
         mainPanel = new Panel();
         mainPanel.setLayout(null);
 
-        mainFrame.setSize(1280, 720);
+        mainFrame.setSize(1280, 745);
 
         mainPanel.setBackground(new Color(200, 200, 200));
         mainPanel.setSize(mainFrame.getWidth(), mainFrame.getHeight());
