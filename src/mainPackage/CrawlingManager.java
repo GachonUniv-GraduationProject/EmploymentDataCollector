@@ -33,6 +33,7 @@ public class CrawlingManager {
     private String[] collectedKeywords;
 
     private int startIndex;
+    private int count;
 
     private ArrayList<JobPost> jobPostList;
     private ArrayList<Keyword> keywords;
@@ -40,19 +41,17 @@ public class CrawlingManager {
 
     private JsonReader jsonReader;
 
+    private JTextField startIndexText;
+    private JTextField countText;
+
     public CrawlingManager(Frame frame, Panel panel)
     {
         mainFrame = frame;
         mainPanel = panel;
 
         jsonReader = new JsonReader();
-        jobPostList = jsonReader.readJobPost("saramin_api_sample.json");
-        excludedKeywords = jsonReader.readExcludeList();
-
-        extractKeywordsFromJobPosts();
 
         drawCollect();
-        drawKeywords();
         drawResult();
     }
 
@@ -114,12 +113,12 @@ public class CrawlingManager {
         countLabel.setBounds(215, 20, 45, 20);
         countLabel.setForeground(Color.white);
 
-        JTextField startIndexText = new JTextField("0", 5);
+        startIndexText = new JTextField("0", 5);
         startIndexText.setFont(new Font("D2Coding", Font.PLAIN, 18));
         startIndexText.setBounds(35, 55, 100, 25);
         startIndexText.setForeground(Color.black);
 
-        JTextField countText = new JTextField("100", 5);
+        countText = new JTextField("100", 5);
         countText.setFont(new Font("D2Coding", Font.PLAIN, 18));
         countText.setBounds(190, 55, 100, 25);
         countText.setForeground(Color.black);
@@ -138,7 +137,13 @@ public class CrawlingManager {
         collectButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                startIndex = Integer.parseInt(startIndexText.getText());
+                count = Integer.parseInt(countText.getText());
+                jobPostList = getDataFromSaramin();
+                excludedKeywords = jsonReader.readExcludeList();
 
+                extractKeywordsFromJobPosts();
+                drawKeywords();
             }
         });
 
@@ -172,6 +177,8 @@ public class CrawlingManager {
         {
             collectedKeywords[i] = keywords.get(i).getKeyword() + String.format(" (x%d)", keywords.get(i).getCount());
             keywordCheckboxes[i] = new JCheckBox(collectedKeywords[i]);
+            if(keywords.get(i).getCount() == 1)
+                keywordCheckboxes[i].setSelected(true);
             keywordCheckboxes[i].setOpaque(false);
             keywordCheckboxes[i].setIcon(checkboxUncheckedImg);
             keywordCheckboxes[i].setSelectedIcon(checkboxCheckedImg);
@@ -218,6 +225,8 @@ public class CrawlingManager {
         filterButtonPanel.add(filterButton);
         mainPanel.add(filterButtonPanel);
         mainPanel.add(selectScrollPane);
+        mainPanel.revalidate();
+        mainPanel.repaint();
     }
 
     private ArrayList<Keyword> getCheckedKeywords() {
@@ -290,43 +299,65 @@ public class CrawlingManager {
         mainPanel.add(exportPanel);
         mainPanel.add(resultPanel);
 
-        //getDataFromSaramin();
     }
 
-    private void getDataFromSaramin() {
+    private ArrayList<JobPost> getDataFromSaramin() {
         String accessKey = "83CM6TDa4Wzvt8pfilNtneviEMD83gkIJZwNSxlC0UIX8YfZdzi";
+        ArrayList<JobPost> result = new ArrayList<>();
 
         try {
-            String text = URLEncoder.encode("", "UTF-8");
-            String apiURL = "https://oapi.saramin.co.kr/job-search?access-key=" + accessKey + "&bbs_gb=0&job_type=1&start=" + startIndex + "&count=110&job_mid_cd=2";
+            while(count > 0) {
+                int countLimit = 10, countApply;
+                if(count > countLimit) {
+                    countApply = countLimit;
+                    count -= countLimit;
+                }
+                else {
+                    countApply = count;
+                    count = 0;
+                }
 
-            URL url = new URL(apiURL);
-            HttpURLConnection con = (HttpURLConnection) url.openConnection();
-            con.setRequestMethod("GET");
-            con.setRequestProperty("Accept", "application/json");
+                String text = URLEncoder.encode("", "UTF-8");
+                String apiURL = "https://oapi.saramin.co.kr/job-search?access-key=" + accessKey + "&job_type=1&start=" + startIndex + "&count=" + countApply + "&job_mid_cd=2";
+                System.out.println("URL : " + apiURL);
 
-            int responseCode = con.getResponseCode();
-            BufferedReader br;
+                URL url = new URL(apiURL);
+                HttpURLConnection con = (HttpURLConnection) url.openConnection();
+                con.setRequestMethod("GET");
+                con.setRequestProperty("Accept", "application/json");
 
-            // Success
-            if(responseCode == 200) {
-                br = new BufferedReader(new InputStreamReader(con.getInputStream()));
+                int responseCode = con.getResponseCode();
+                BufferedReader br;
+
+                // Success
+                if (responseCode == 200) {
+                    br = new BufferedReader(new InputStreamReader(con.getInputStream()));
+                } else {
+                    br = new BufferedReader(new InputStreamReader(con.getErrorStream()));
+                }
+
+                String inputLine;
+                StringBuffer response = new StringBuffer();
+                while ((inputLine = br.readLine()) != null) {
+                    response.append(inputLine);
+                }
+
+                br.close();
+                System.out.println(response);
+
+                startIndex += countApply;
+                ArrayList<JobPost> postList = jsonReader.convertJobPost(response.toString());
+                /*if(postList.size() < countApply) {
+                    count += countApply - postList.size();
+                }*/
+                result.addAll(postList);
+                Thread.sleep(1000);
             }
-            else {
-                br = new BufferedReader(new InputStreamReader(con.getErrorStream()));
-            }
-
-            String inputLine;
-            StringBuffer response = new StringBuffer();
-            while((inputLine = br.readLine()) != null) {
-                response.append(inputLine);
-            }
-
-            br.close();
-            System.out.println(response.toString());
+            return result;
         }
         catch (Exception e) {
             System.out.println(e);
+            return null;
         }
     }
 
