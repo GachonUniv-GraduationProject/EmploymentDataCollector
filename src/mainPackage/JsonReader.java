@@ -8,6 +8,9 @@ import org.json.simple.parser.JSONParser;
 
 import javax.swing.*;
 import java.io.*;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -22,7 +25,9 @@ public class JsonReader {
     /**
      * Path to store final results
      * */
-    private final String resultPath = "data/result_list.json";
+    private final String resultPathPart = "data/result_list";
+
+    private final String jsonExtension = ".json";
 
     /**
      * Final result of data collection Json Object
@@ -231,8 +236,19 @@ public class JsonReader {
         // When there is a final result
         if(jobPostJsonOutput != null) {
             try {
+                // Make the result path
+                DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyMMdd");
+                StringBuilder resultPath = new StringBuilder();
+                resultPath.append(resultPathPart);
+                resultPath.append("(");
+                resultPath.append(LocalDate.now().format(formatter));
+                resultPath.append("-");
+                resultPath.append(jobPostArrayList.size());
+                resultPath.append(")");
+                resultPath.append(jsonExtension);
+
                 // Create the file and write result content
-                FileWriter file = new FileWriter(resultPath);
+                FileWriter file = new FileWriter(resultPath.toString());
                 Gson gson = new GsonBuilder().setPrettyPrinting().create();
                 String json = gson.toJson(JsonReader.jobPostJsonOutput);
                 file.write(json);
