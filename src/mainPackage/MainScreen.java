@@ -1,5 +1,6 @@
 package mainPackage;
 
+import javax.swing.*;
 import java.awt.*;
 
 /**
@@ -10,17 +11,17 @@ public class MainScreen {
     /**
      * Main frame of this program
      * */
-    private static Frame mainFrame;
+    private static JFrame mainFrame;
     /**
      * Main panel of main frame
      * */
-    private static Panel mainPanel;
+    private static JPanel mainPanel;
 
     public static void main(String[] args)
     {
         // Create the main frame and panel
-        mainFrame = new Frame("Employment Data Collector");
-        mainPanel = new Panel();
+        mainFrame = new JFrame("Employment Data Collector");
+        mainPanel = new JPanel();
         mainPanel.setLayout(null);
 
         // Set the frame size

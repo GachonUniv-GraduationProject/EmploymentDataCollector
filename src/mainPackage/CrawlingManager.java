@@ -24,16 +24,22 @@ public class CrawlingManager {
     /**
      * Main frame of this program
      * */
-    private Frame mainFrame;
+    private JFrame mainFrame;
     /**
      * Main panel of main frame
      * */
-    private Panel mainPanel;
+    private JPanel mainPanel;
 
     /**
      * Panel containing the Data Collection Preset UI
      * */
     private JPanel collectPanel;
+
+    /**
+     * Button that start collecting data
+     * */
+    private JButton collectButton;
+
     /**
      * Panel showing keywords for collected data
      * */
@@ -65,6 +71,10 @@ public class CrawlingManager {
      * Number of job postings to be requested by Saramin API
      * */
     private int count;
+    /**
+     * Total Number of job postings to be requested by Saramin API (not subtracted)
+     * */
+    private int totalCount;
 
     /**
      * Job Posting Data Received Through Saramin API
@@ -93,7 +103,12 @@ public class CrawlingManager {
      * */
     private JTextField countText;
 
-    public CrawlingManager(Frame frame, Panel panel)
+    /**
+     * Progress bar frame to show data collecting progress
+     * */
+    private JProgressBarEx progressBarEx = null;
+
+    public CrawlingManager(JFrame frame, JPanel panel)
     {
         mainFrame = frame;
         mainPanel = panel;
@@ -196,7 +211,7 @@ public class CrawlingManager {
         ImageIcon collectPressedImg = new ImageIcon("./res/collect_button_pressed.png");
 
         // Create and set buttons to start data collection.
-        JButton collectButton = new JButton(collectImg);
+        collectButton = new JButton(collectImg);
         collectButton.setPressedIcon(collectPressedImg);
         collectButton.setContentAreaFilled(false);
         collectButton.setBorderPainted(false);
@@ -209,11 +224,11 @@ public class CrawlingManager {
             public void actionPerformed(ActionEvent e) {
                 startIndex = Integer.parseInt(startIndexText.getText());
                 count = Integer.parseInt(countText.getText());
-                jobPostList = getDataFromSaramin();
-                excludedKeywords = jsonReader.readExcludeList();
-
-                extractKeywordsFromJobPosts();
-                drawKeywords();
+                totalCount = count;
+                // Start request
+                startRequestSaraminAPI();
+                // Disable collect button
+                collectButton.setEnabled(false);
             }
         });
 
@@ -226,6 +241,34 @@ public class CrawlingManager {
 
         mainPanel.add(collectPanel);
     }
+
+    /**
+     * Start API requests in the background
+     * */
+    private void startRequestSaraminAPI() {
+        final SwingWorker<Void, Void> worker = new SwingWorker<Void, Void>() {
+            @Override
+            protected Void doInBackground() throws Exception {
+                jobPostList = getDataFromSaramin();
+                onSaraminLoaded();
+                return null;
+            }
+        };
+
+        worker.execute();
+    }
+
+    /**
+     * Method that runs after requesting all data
+     * */
+    private void onSaraminLoaded() {
+        excludedKeywords = jsonReader.readExcludeList();
+
+        extractKeywordsFromJobPosts();
+        drawKeywords();
+        collectButton.setEnabled(true);
+    }
+
 
     /**
      * Draw a UI to select keywords to exclude
@@ -414,6 +457,7 @@ public class CrawlingManager {
 
         // Initialize the result list
         ArrayList<JobPost> result = new ArrayList<>();
+        progressBarEx = new JProgressBarEx(0, totalCount);
 
         try {
             // Repeat until all user created requests are made
@@ -426,10 +470,15 @@ public class CrawlingManager {
                 if(count > countLimit) {
                     countApply = countLimit;
                     count -= countLimit;
+                    // Increase the progress bar value
+                    progressBarEx.setValue(totalCount - count);
                 }
                 else {
                     countApply = count;
                     count = 0;
+                    // Hide the progress bar
+                    progressBarEx.setValue(totalCount);
+                    progressBarEx.dismiss();
                 }
 
                 // Set the URL to request
