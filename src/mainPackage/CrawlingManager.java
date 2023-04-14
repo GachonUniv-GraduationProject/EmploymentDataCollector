@@ -518,7 +518,7 @@ public class CrawlingManager {
 
                 // Move to next starting index
                 startIndex += countApply;
-                result = jsonReader.convertJobPost(response.toString());
+                result.addAll(jsonReader.convertJobPost(response.toString()));
 
                 // Wait for next request
                 Thread.sleep(1000);
