@@ -43,6 +43,9 @@ public class JProgressBarEx extends JFrame {
         progressBar.setStringPainted(true);
         progressBar.setString("0%");
 
+        // Set the frame to be created in the middle of the screen
+        setLocationRelativeTo(null);
+
         // Set the frame size and show
         setSize(300, 100);
         setVisible(true);

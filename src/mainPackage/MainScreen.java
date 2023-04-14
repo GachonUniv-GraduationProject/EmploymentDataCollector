@@ -35,6 +35,8 @@ public class MainScreen {
         // create crawling manager
         CrawlingManager crawlingManager = new CrawlingManager(mainFrame, mainPanel);
 
+        // Set the frame to be created in the middle of the screen
+        mainFrame.setLocationRelativeTo(null);
         // Show it to user
         mainFrame.setVisible(true);
         // Disable window size changes
