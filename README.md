@@ -16,6 +16,9 @@ It is a GUI program by collecting employment announcement data of Saramin.
 - Keywords excluded once are then excluded even after API requests.
 - It is converted into JSON in a form that can be applied as trend data to the server and stored as a file.
 
+## Run
+You can run Employment Data Collector by downloding this <a href="/out/artifacts/EmploymentDataCollector_jar">jar file</a>.
+
 ## Screenshots
 <img src="/display_images/Inital_Screen.PNG" title="Inital Screen" alt="Inital Screen"></img>
 <img src="/display_images/API_Requesting.PNG" title="API Requesting" alt="API Requesting"></img>
