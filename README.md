@@ -17,8 +17,8 @@ It is a GUI program by collecting employment announcement data of Saramin.
 - It is converted into JSON in a form that can be applied as trend data to the server and stored as a file.
 
 ## Screenshots
-<img src="/display_images/API_Requesting.PNG" width="240" height="426" title="API Requesting" alt="API Requesting"></img>
-<img src="/display_images/Data_Filtering.PNG" width="240" height="426" title="Data Filtering" alt="Data Filtering"></img>
+<img src="/display_images/API_Requesting.PNG" title="API Requesting" alt="API Requesting"></img>
+<img src="/display_images/Data_Filtering.PNG" title="Data Filtering" alt="Data Filtering"></img>
 
 ## Development Environment
 - Java JDK 1.8
