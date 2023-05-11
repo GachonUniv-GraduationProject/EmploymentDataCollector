@@ -102,6 +102,10 @@ public class CrawlingManager {
      * TextField to receive the number of job posts to be requested by API
      * */
     private JTextField countText;
+    /**
+     * TextField to receive the API request key
+     * */
+    private JTextField apiKeyText;
 
     /**
      * Progress bar frame to show data collecting progress
@@ -179,7 +183,7 @@ public class CrawlingManager {
     {
         // Set up the panel(Size, Background color, Border, Layout)
         collectPanel = new JPanel();
-        collectPanel.setBounds(0, 0, 480, 100);
+        collectPanel.setBounds(0, 0, 480, 150);
         collectPanel.setBackground(new Color(120, 152, 255));
         collectPanel.setBorder(BorderFactory.createEmptyBorder(30, 20, 20, 20));
         collectPanel.setLayout(null);
@@ -206,6 +210,11 @@ public class CrawlingManager {
         countText.setBounds(190, 55, 100, 25);
         countText.setForeground(Color.black);
 
+        apiKeyText = new JTextField("API KEY", 50);
+        apiKeyText.setFont(new Font("D2Coding", Font.PLAIN, 18));
+        apiKeyText.setBounds(35, 100, 255, 25);
+        apiKeyText.setForeground(Color.black);
+
         // Load the collect button image resources
         ImageIcon collectImg = new ImageIcon("./res/collect_button.png");
         ImageIcon collectPressedImg = new ImageIcon("./res/collect_button_pressed.png");
@@ -218,7 +227,7 @@ public class CrawlingManager {
         collectButton.setFocusPainted(false);
         collectButton.setOpaque(false);
         collectButton.setFont(new Font("D2Coding", Font.PLAIN, 18));
-        collectButton.setBounds(330, 33, 110, 45);
+        collectButton.setBounds(330, 70, 110, 45);
         collectButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -237,6 +246,7 @@ public class CrawlingManager {
         collectPanel.add(countLabel);
         collectPanel.add(startIndexText);
         collectPanel.add(countText);
+        collectPanel.add(apiKeyText);
         collectPanel.add(collectButton);
 
         mainPanel.add(collectPanel);
@@ -277,7 +287,7 @@ public class CrawlingManager {
     {
         // Set up the panel(Size, Background color)
         keywordPanel = new JPanel();
-        keywordPanel.setBounds(0, 100, 480, 545);
+        keywordPanel.setBounds(0, 150, 480, 495);
         keywordPanel.setBackground(new Color(235, 241, 251));
         keywordPanel.setLayout(null);
 
@@ -311,7 +321,7 @@ public class CrawlingManager {
 
         // Creating and setting scroll components for vertical scrolling
         JScrollPane selectScrollPane = new JScrollPane(box);
-        selectScrollPane.setBounds(0, 100, 480, 545);
+        selectScrollPane.setBounds(0, 150, 480, 495);
         selectScrollPane.getViewport().setBackground(new Color(235, 241, 251));
         selectScrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
         selectScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_NEVER);
@@ -453,7 +463,7 @@ public class CrawlingManager {
      * */
     private ArrayList<JobPost> getDataFromSaramin() {
         // API Key for saramin API
-        String accessKey = "83CM6TDa4Wzvt8pfilNtneviEMD83gkIJZwNSxlC0UIX8YfZdzi";
+        String accessKey = apiKeyText.getText();
 
         // Initialize the result list
         ArrayList<JobPost> result = new ArrayList<>();
@@ -527,6 +537,9 @@ public class CrawlingManager {
         }
         catch (Exception e) {
             System.out.println(e);
+            progressBarEx.dismiss();
+            collectButton.setEnabled(true);
+            JOptionPane.showMessageDialog(null, "Failed to retrieve API data normally. Please check the API Key.", "API Error", JOptionPane.ERROR_MESSAGE);
             return null;
         }
     }
