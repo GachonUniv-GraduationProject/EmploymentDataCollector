@@ -2,10 +2,10 @@
 Graduation Project of Gachon University Software Department
 
 [Team members]
-- 김동준 ()
+- 김동준 (rlaehdwns99@gachon.ac.kr)
 - 김현종 (guswhd5738@gachon.ac.kr)
-- 안해빈 ()
-- 이원재 ()
+- 안해빈 (gnh06280@gachon.ac.kr)
+- 이원재 (dnjswo0213@gachon.ac.kr)
 
 ## Introduction
 It is a GUI program by collecting employment announcement data of Saramin.
