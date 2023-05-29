@@ -1,11 +1,14 @@
 # EmploymentDataCollector
 Graduation Project of Gachon University Software Department
 
-[Team members]
-- 김동준 (rlaehdwns99@gachon.ac.kr)
-- 김현종 (guswhd5738@gachon.ac.kr)
-- 안해빈 (gnh06280@gachon.ac.kr)
-- 이원재 (dnjswo0213@gachon.ac.kr)
+## Team members
+| Std No. | Name | Department | E-mail | Github |
+|:-------:|:----:|:-------:|:-------:|:-------:|
+|201835417|김동준|AI·소프트웨어학부(소프트웨어전공)|rlaehdwns99@gachon.ac.kr|[Kim-Dong-Jun99](https://github.com/Kim-Dong-Jun99)|
+|201835443|김현종|AI·소프트웨어학부(소프트웨어전공)|guswhd5738@gachon.ac.kr|[DecisionDisorder](https://github.com/DecisionDisorder)|
+|201835474|안해빈|AI·소프트웨어학부(소프트웨어전공)|gnh06280@gachon.ac.kr|[HaebinAHN](https://github.com/HaebinAHN)|
+|201735863|이원재|AI·소프트웨어학부(소프트웨어전공)|dnjswo0213@gachon.ac.kr|[Wonjae98](https://github.com/Wonjae98)|
+<br/>
 
 ## Introduction
 It is a GUI program by collecting employment announcement data of Saramin.
